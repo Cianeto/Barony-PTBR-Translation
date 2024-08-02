@@ -2,7 +2,7 @@
 
 ## Importante
 
-Eu traduzi apenas a pasta "lang" do jogo, grande parte do jogo permanece sem tradução, então se quiserem fazer um fork desse repo e continuarem fiquem a vontade.
+Eu traduzi apenas a pasta "lang" do jogo, grande parte do jogo permanece sem tradução, então se quiserem fazer um fork desse repo e continuarem fiquem a vontade
 
 ## Overview
 
