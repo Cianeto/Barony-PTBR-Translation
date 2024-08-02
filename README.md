@@ -1,7 +1,5 @@
 # Tradução PT-BR para o joguinho Barony
 
-## BAIXA AINDA NÃO, TO FAZENDO AINDA PERAE
-
 ## Overview
 
 Não encontrei uma tradução do joguinho então fiz eu mesmo, se divirtam.
