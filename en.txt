@@ -340,10 +340,10 @@ de usa-los.#
 #console command messages
 275 Apenas o servidor pode modificar as flags do servidor.#
 276 Flags do servidor atualizadas.#
-277 Trapacas estao desativadas neste servidor.#
+277 Cheats estao desativadas neste servidor.#
 278 '%s' nao e um item!#
-279 Servidor expulsou o cliente %d (%s).#
-280 Falha ao encontrar um cliente com esse nome.#
+279 Servidor expulsou o client %d (%s).#
+280 Falha ao encontrar um client com esse nome.#
 281 Apenas o servidor pode expulsar outro jogador.#
 282 Voce deve estar jogando um jogo multiplayer para expulsar!#
 283 Arquivo do mapa salvo como '%s'.#
@@ -907,11 +907,11 @@ A torneira quebra!#
 721 Seu amigo %s te segue para o proximo nivel.#
 722 %s se despede de voce!#
 723 Seu %s se despede de voce!#
-724 Conexao do servidor com o cliente %d (%s) recuperada.
+724 Conexao do servidor com o client %d (%s) recuperada.
  Auto-expulsao cancelada.#
-725 Cliente %d (%s) nao esta respondendo ao servidor.
+725 Client %d (%s) nao esta respondendo ao servidor.
  Auto-expulsao em %d segundos...#
-726 Conexao do servidor com o cliente %d (%s) perdida.
+726 Conexao do servidor com o client %d (%s) perdida.
  Expulsando do jogo.#
 727 Voce nao tem espaco sobrando na sua mochila para um
  %s!#
@@ -1078,9 +1078,9 @@ Thank you!#
 874 Seu %s vibra.#
 875 Seu %s de repente quebra!#
 876 Voce se sente desorientado por um momento.#
-877 Voce invoca um %s raivoso!#
+877 Voce invoca %s raivoso!#
 878 Voce invoca alguns %s raivosos!#
-879 Voce invoca um %s amigavel!#
+879 Voce invoca %s amigavel!#
 880  "Eu servirei voce, mestre."#
 881 Voce invoca alguns %s amigaveis!#
 882  "Nos serviremos voce, mestre."#
@@ -1191,109 +1191,109 @@ Thank you!#
 980 roxo#
 981 branco#
 #item quality strings
-982 um %+2d quebrado #
-983 um %+2d decrepito #
-984 um %+2d gasto #
-985 um %+2d utilizavel #
-986 um %+2d excelente #
-987 um %+2d destruido #
-988 um %+2d rachado #
-989 um %+2d aspero #
-990 um %+2d defeituoso #
-991 um %+2d impecavel #
-992 um %s %+2d evaporado #
-993 um %s %+2d nublado #
-994 um %s %+2d turvo #
-995 um %s %+2d simples #
-996 um %s %+2d borbulhante #
-997 um %+2d dilacerado #
-998 um %+2d rasgado #
-999 um %+2d desbotado #
-1000 um %+2d marcado #
-1001 um %+2d novinho em folha #
-1002 um %+2d podre #
-1003 um %+2d mofado #
-1004 um %+2d envelhecido #
-1005 um %+2d ligeiramente envelhecido #
-1006 um %+2d fresco #
+982 %+2d (quebrado) #
+983 %+2d (decrepito) #
+984 %+2d (gasto) #
+985 %+2d (utilizavel) #
+986 %+2d (excelente) #
+987 %+2d (destruido) #
+988 %+2d (rachado) #
+989 %+2d (aspero) #
+990 %+2d (defeituoso) #
+991 %+2d (impecavel) #
+992 %s %+2d (evaporado) #
+993 %s %+2d (nublado) #
+994 %s %+2d (turvo) #
+995 %s %+2d (simples) #
+996 %s %+2d (borbulhante) #
+997 %+2d (dilacerado) #
+998 %+2d (rasgado) #
+999 %+2d (desbotado) #
+1000 %+2d (marcado) #
+1001 %+2d (novinho em folha) #
+1002 %+2d (podre) #
+1003 %+2d (mofado) #
+1004 %+2d (envelhecido) #
+1005 %+2d (ligeiramente envelhecido) #
+1006 %+2d (fresco) #
 1007 copia de "%s"#
-1008 %d %+2d quebrado #
-1009 %d %+2d decrepito #
-1010 %d %+2d gasto #
-1011 %d %+2d utilizavel #
-1012 %d %+2d excelente #
-1013 %d %+2d destruido #
-1014 %d %+2d rachado #
-1015 %d %+2d aspero #
-1016 %d %+2d defeituoso #
-1017 %d %+2d impecavel #
-1018 %d %s %+2d evaporado #
-1019 %d %s %+2d nublado #
-1020 %d %s %+2d turvo #
-1021 %d %s %+2d simples #
-1022 %d %s %+2d borbulhante #
-1023 %d %+2d dilacerado #
-1024 %d %+2d rasgado #
-1025 %d %+2d desbotado #
-1026 %d %+2d marcado #
-1027 %d %+2d novinho em folha #
-1028 %d %+2d podre #
-1029 %d %+2d mofado #
-1030 %d %+2d envelhecido #
-1031 %d %+2d ligeiramente envelhecido #
-1032 %d %+2d fresco #
+1008 %d %+2d (quebrado) #
+1009 %d %+2d (decrepito) #
+1010 %d %+2d (gasto) #
+1011 %d %+2d (utilizavel) #
+1012 %d %+2d (excelente) #
+1013 %d %+2d (destruido) #
+1014 %d %+2d (rachado) #
+1015 %d %+2d (aspero) #
+1016 %d %+2d (defeituoso) #
+1017 %d %+2d (impecavel) #
+1018 %d %s %+2d (evaporado) #
+1019 %d %s %+2d (nublado) #
+1020 %d %s %+2d (turvo) #
+1021 %d %s %+2d (simples) #
+1022 %d %s %+2d (borbulhante) #
+1023 %d %+2d (dilacerado) #
+1024 %d %+2d (rasgado) #
+1025 %d %+2d (desbotado) #
+1026 %d %+2d (marcado) #
+1027 %d %+2d (novinho em folha) #
+1028 %d %+2d (podre) #
+1029 %d %+2d (mofado) #
+1030 %d %+2d (envelhecido) #
+1031 %d %+2d (ligeiramente envelhecido) #
+1032 %d %+2d (fresco) #
 1033 %d copias de "%s" #
-1034 um quebrado #
-1035 um decrepito #
-1036 um gasto #
-1037 um utilizavel #
-1038 um excelente #
-1039 um destruido #
-1040 um rachado #
-1041 um aspero #
-1042 um defeituoso #
-1043 um impecavel #
-1044 um %s evaporado #
-1045 um %s nublado #
-1046 um %s turvo #
-1047 um %s simples #
-1048 um %s borbulhante #
-1049 um dilacerado #
-1050 um rasgado #
-1051 um desbotado #
-1052 um marcado #
-1053 um novinho em folha #
-1054 um podre #
-1055 um mofado #
-1056 um envelhecido #
-1057 um ligeiramente envelhecido #
-1058 um fresco #
-1059 %s rotulado %s#
-1060 %d quebrado #
-1061 %d decrepito #
-1062 %d gasto #
-1063 %d utilizavel #
-1064 %d excelente #
-1065 %d destruido #
-1066 %d rachado #
-1067 %d aspero #
-1068 %d defeituoso #
-1069 %d impecavel #
-1070 %d %s evaporado #
-1071 %d %s nublado #
-1072 %d %s turvo #
-1073 %d %s simples #
-1074 %d %s borbulhante #
-1075 %d dilacerado #
-1076 %d rasgado #
-1077 %d desbotado #
-1078 %d marcado #
-1079 %d novinho em folha #
-1080 %d podre #
-1081 %d mofado #
-1082 %d envelhecido #
-1083 %d ligeiramente envelhecido #
-1084 %d fresco #
+1034 um (quebrado) #
+1035 um (decrepito) #
+1036 um (gasto) #
+1037 um (utilizavel) #
+1038 um (excelente) #
+1039 um (destruido) #
+1040 um (rachado) #
+1041 um (aspero) #
+1042 um (defeituoso) #
+1043 um (impecavel) #
+1044 %s (evaporado) #
+1045 %s (nublado) #
+1046 %s (turvo) #
+1047 %s (simples) #
+1048 %s (borbulhante) #
+1049 um (dilacerado) #
+1050 um (rasgado) #
+1051 um (desbotado) #
+1052 um (marcado) #
+1053 um (novinho em folha) #
+1054 um (podre) #
+1055 um (mofado) #
+1056 um (envelhecido) #
+1057 um (ligeiramente envelhecido) #
+1058 um (fresco) #
+1059 %s (rotulado) %s#
+1060 %d (quebrado) #
+1061 %d (decrepito) #
+1062 %d (gasto) #
+1063 %d (utilizavel) #
+1064 %d (excelente) #
+1065 %d (destruido) #
+1066 %d (rachado) #
+1067 %d (aspero) #
+1068 %d (defeituoso) #
+1069 %d (impecavel) #
+1070 %d %s (evaporado) #
+1071 %d %s (nublado) #
+1072 %d %s (turvo) #
+1073 %d %s (simples) #
+1074 %d %s (borbulhante) #
+1075 %d (dilacerado) #
+1076 %d (rasgado) #
+1077 %d (desbotado) #
+1078 %d (marcado) #
+1079 %d (novinho em folha) #
+1080 %d (podre) #
+1081 %d (mofado) #
+1082 %d (envelhecido) #
+1083 %d (ligeiramente envelhecido) #
+1084 %d (fresco) #
 1085 %ss rotulado %s#
 1086 %d copias de "%s" #
 #more item messages
@@ -1621,7 +1621,7 @@ Arquivo de salvamento compativel nao encontrado.#
 1505 falhou em desviar do pedregulho.#
 1506 tentou nadar na lava.#
 1507 caiu em uma armadilha de espinhos e morreu.#
-1508 foi morto por um %s voador.#
+1508 foi morto por %s voador.#
 1509 foi traido por seu camarada %s.#
 1510 foi traida por seu camarada %s.#
 1511 foi violentamente despachado por um humano irritado.#
@@ -2104,7 +2104,7 @@ Arquivo de salvamento compativel nao encontrado.#
 2004 vampiro#
 2005 sombra#
 2006 cocatriz#
-2007 insetoide#
+2007 insectoide#
 2008 homem-bode#
 2009 automato#
 2010 lich gelado#
@@ -2121,7 +2121,7 @@ Arquivo de salvamento compativel nao encontrado.#
 2054 vampiros#
 2055 sombras#
 2056 cocatrizes#
-2057 insetoides#
+2057 insectoides#
 2058 homens-bode#
 2059 automatos#
 2060 liches gelado#
@@ -2155,7 +2155,7 @@ Arquivo de salvamento compativel nao encontrado.#
 2154 doou sangue para um vampiro.#
 2155 tornou-se uma sombra do seu antigo eu.#
 2156 aguardou muito tempo antes de revidar contra a cocatriz.#
-2157 foi assassinado por um insetoide astuto.#
+2157 foi assassinado por um insectoide astuto.#
 2158 foi espancado ate a morte por um homem-bode bebado.#
 2159 foi exterminado por um automato.#
 2160 falhou em frustrar os planos de Erudyce.#
@@ -3108,9 +3108,9 @@ resto da sua magia e drenada!#
 3183 Sua carne queima de dor ao entrar em contato com a agua!#
 3184 Seus ossos queimam de dor ao entrar em contato com a agua!#
 3185 A polimorfia se desfaz e voce retorna a sua forma normal.#
-3186 Voce se polimorfa em um %s!#
-3187 O %s se polimorfa em um %s!#
-3188 %s se poliforma em um %s!#
+3186 Voce se polimorfa em %s!#
+3187 O %s se polimorfa em %s!#
+3188 %s se poliforma em %s!#
 3189 Mas voce nao se sente diferente...#
 3190 Voce bebe a pocao de polimorfia...#
 3191 A polimorfia nao teve efeito!#
@@ -3264,8 +3264,8 @@ resto da sua magia e drenada!#
 3329 DEPRECATED#
 3330 DEPRECATED#
 3331 DEPRECATED#
-3332 Voce combina o %s com um %s...#
-3333 Voce combina a pocao nao identificada com um %s...#
+3332 Voce combina o %s com %s...#
+3333 Voce combina a pocao nao identificada com %s...#
 3334 Voce combina o %s com a pocao nao identificada...#
 3335 Voce combina as 2 pocoes nao identificadas...#
 3336 O frasco vazio parece ideal para coletar liquidos.#
@@ -3283,7 +3283,7 @@ resto da sua magia e drenada!#
 3348 DEPRECATED#
 3349 Voce aprende sobre o ingrediente secundario alquimico da %s#
 3350 estragou a mistura.#
-3351 Voce recupera um %s.#
+3351 Voce recupera %s.#
 3352 Fez %s.#
 3353 Engarrafou %s.#
 3354 Voce de repente se sente muito mais forte!#
@@ -3351,7 +3351,7 @@ resto da sua magia e drenada!#
 3416 DEPRECATED_SPELL_NAME#
 3417 Sua transformacao se desfaz e voce retorna a sua forma normal.#
 3418 DEPRECATED#
-3419 Voce se metamorfosea em um %s!#
+3419 Voce se metamorfosea em %s!#
 3420 Voce nao se sente diferente...#
 3421 DEPRECATED_SPELL_NAME#
 3422 DEPRECATED_SPELL_NAME#
@@ -3535,9 +3535,9 @@ resto da sua magia e drenada!#
 3609 Voce comeca a apertar a mola de disparo...#
 3610 A armadilha comeca a puxar energia magica para si!#
 3611 Voce e levado embora!#
-3612 Voce e atingido por um %s explosivo!#
-3613 O %s e atingido por um %s explosivo!#
-3614 %s e atingido por um %s explosivo!#
+3612 Voce e atingido por %s explosivo!#
+3613 O %s e atingido por %s explosivo!#
+3614 %s e atingido por %s explosivo!#
 3615 Sua armadilha falhou em teleportar o %s!#
 3616 Sua armadilha falhou em teleportar %s!#
 3617 Seu %s destroi o %s!#
@@ -3571,11 +3571,11 @@ resto da sua magia e drenada!#
 3645 Sucatear#
 3646 Reparar#
 3647 DEPRECATED#
-3648 Voce nao tem materiais suficientes para criar um %s!#
+3648 Voce nao tem materiais suficientes para criar %s!#
 3649 DEPRECATED#
 3650 Olhar para...#
 3651 Seu gyrobot recuperou alguns aliados deixados para tras!#
-3652 Sua habilidade de Conserto nao e alta o suficiente para criar um %s!#
+3652 Sua habilidade de Conserto nao e alta o suficiente para criar %s!#
 3653 um quebrado #
 3654 um simples #
 3655 um complexo #
@@ -3664,7 +3664,7 @@ a inscricao!#
 3735 Os demonios do %s ja foram exorcizados!#
 3736 Os demonios de %s ja foram exorcizados!#
 3737 Seu comportamento melhora!#
-3738 um %+2d #
+3738 %+2d #
 3739 Sua flecha incendeia o %s!#
 3740 Sua flecha incendeia %s!#
 3741 Voce e incendiado por uma flecha flamejante!#
@@ -3821,7 +3821,7 @@ a inscricao!#
 3891 %s nao tem utilidade para isso.#
 3892 O %s nao tem utilidade para isso.#
 3893 Hm. Voce fez a escolha certa ao lidar comigo.#
-3894 Produzido localmente para meu mais novo cliente.#
+3894 Produzido localmente para meu mais novo client.#
 3895 Confio que voce apreciara minhas finas mercadorias.#
 3896 #
 3897 Voce encontra um compartimento escondido dentro do bau!#
@@ -3860,8 +3860,8 @@ negociarmos!#
 3922 Modo Ranger desativado, todas as armas sao permitidas.#
 3923 Esta arma esta desativada no Modo Ranger!#
 3924 O arquivo de salvamento do jogador nao e elegivel para a Conquista Ranger. Reinicie o jogo para redefinir.#
-3925 Modo Ranger desativado para o cliente %d.#
-3926 Modo Ranger ativado para o cliente %d.#
+3925 Modo Ranger desativado para o client %d.#
+3926 Modo Ranger ativado para o client %d.#
 3927 Desbloqueie a conquista "Bony Baron" para desbloquear esta classe para todas as racas!#
 3928 Desbloqueie a conquista "Bucktooth Baron" para desbloquear esta classe para todas as racas!#
 3929 Desbloqueie a conquista "Bombshell Baron" para desbloquear esta classe para todas as racas!#
@@ -4005,7 +4005,7 @@ negociarmos!#
 4065 Qualquer#
 #Skillsheet - Casting MP Regen for insectoid
 4066 N/A
-(Insetoide)#
+(Insectoide)#
 #Skillsheet - Casting MP Regen for automaton
 4067 N/A
 (Automato)#
@@ -4132,7 +4132,7 @@ formalidades comerciais, agora!#
 4179 Nova Receita!#
 4180 Uso Descoberto!#
 4181 OBTIDO: %d/24#
-4182 Voce descobriu uma nova receita de alquimia para um %s.#
+4182 Voce descobriu uma nova receita de alquimia para %s.#
 #scribing
 4183 Custo de Carga:#
 4184 Escrever#
@@ -4209,7 +4209,7 @@ formalidades comerciais, agora!#
 qualquer um.#
 4253 Isso esta reservado para outro
 comprador, minhas desculpas.#
-4254 Isso e apenas para meus clientes
+4254 Isso e apenas para meus clients
 mais estimados.#
 #shop buy added consumables
 4255 Meu estoque pessoal, so para
@@ -4387,7 +4387,7 @@ Padroes#
 5039 Sem Borda#
 5040 Tela Cheia#
 5041 Vinculacao "%s" excluida.#
-5042 Desligado          Ligado#
+5042  Desligado     Ligado#
 5043 Personalizar#
 5044 MINIMAPA#
 5045 Escala#
@@ -4595,7 +4595,7 @@ A proxima entrada que voce ativar sera vinculada a esta acao.#
 5241 Geral#
 5242 Modo Streamer#
 5243 Se voce e um streamer e sabe o que e doxxing, definitivamente ative isso.#
-5244 O numero da porta a ser usado ao hospedar um lobby LAN. (Padrao: %d)#
+5244 O numero da porta a ser usado ao hostear um lobby LAN. (Padrao: %d)#
 5245 LAN#
 5246 Porta#
 5247 Crossplay#
@@ -4618,8 +4618,8 @@ A proxima entrada que voce ativar sera vinculada a esta acao.#
 5264 Quando um jogador morre, ele mantem seu inventario ao ser revivido no proximo nivel.#
 5265 Vida Extra#
 5266 Comece o jogo com um Amuleto de Salva-vidas, para prevenir uma morte.#
-5267 Trapacas#
-5268 Alternar a capacidade de ativar codigos de trapaca durante o jogo.#
+5267 Cheats#
+5268 Alternar a capacidade de ativar codigos de cheat durante o jogo.#
 5269 PONTUACOES#
 5270 CLASSIFICACOES#
 5271 Aqui jaz
@@ -4775,7 +4775,7 @@ Aleatorias#
 Classicos#
 5385 Ativar Dificuldade
 Hardcore#
-5386 Ativar Trapacas#
+5386 Ativar Cheats#
 5387 CONQUISTAS DESATIVADAS
 (MODIFICADO)#
 5388 CONQUISTAS DESATIVADAS
@@ -4783,7 +4783,7 @@ Hardcore#
 5389 CONQUISTAS DESATIVADAS#
 5390 CONQUISTAS ATIVADAS#
 5391 CONFIGURACOES DO LOBBY#
-5392 Bandeiras do Jogo#
+5392 Flags do Jogo#
 5393 Apenas Convidados#
 5394 Apenas Amigos#
 5395 Lobby Aberto#
@@ -4833,10 +4833,10 @@ Complexidade:#
 5429 Ocultar Informacoes da Classe#
 5430 Mostrar Informacoes da Classe#
 5431 *** Por favor, espere %d segundos antes de sugerir outra classe. ***#
-5432 %s: Precisamos de um %s.#
+5432 %s: Precisamos de %s.#
 5433 NOME:#
 5434 Insira um nome para o Jogador %d#
-5435 Ver Configuracoes do Jogo#
+5435 Configuracoes do Jogo#
 5436 *** Pressione [LB] para sugerir uma classe para seu grupo ***#
 5437 *** Pressione [L] para sugerir uma classe para seu grupo ***#
 5438 *** Pressione [L1] para sugerir uma classe para seu grupo ***#
@@ -4900,7 +4900,7 @@ Lobby esta bloqueado.#
 5487 Mostrar nao ingressaveis#
 5488 Mostrar apenas amigos#
 5489 Conquistas ativadas#
-5490 Trapacas ativadas#
+5490 Cheats ativadas#
 5491 Fogo amigo ativado#
 5492 Minotauros ativados#
 5493 Fome ativada#
@@ -4909,7 +4909,7 @@ Lobby esta bloqueado.#
 5496 Modo classico#
 5497 Manter itens apos a morte#
 5498 +1 Vida#
-5500 Trapacas#
+5500 Cheats#
 5501 Machucar aliados#
 5502 Minotauros#
 5503 Fome#
@@ -4920,7 +4920,7 @@ Lobby esta bloqueado.#
 5508 +1 Vida#
 5509 Nenhum#
 5510 Nome:#
-5511 Bandeiras:#
+5511 Flags:#
 5512 Informacoes do Lobby#
 5513 ONLINE#
 5514 Incapaz de conectar ao Epic Online
@@ -4974,19 +4974,17 @@ seus melhores tempos?#
 5558 Ok#
 5559 JOGAR#
 5560 TUTORIAIS#
-5561  
-CONTINUAR#
-5562  
-NOVO#
+5561 CONTINUAR#
+5562 NOVO#
 5563 Criando lobby Epic...#
-5564 Falha ao hospedar lobby Epic.#
-5565 Falha ao hospedar lobby Epic.
+5564 Falha ao hostear lobby Epic.#
+5565 Falha ao hostear lobby Epic.
 Por favor, tente novamente mais tarde.#
 5566 Criando lobby Steam...#
-5567 Falha ao hospedar lobby Steam.#
-5568 Incapaz de hospedar lobby:
+5567 Falha ao hostear lobby Steam.#
+5568 Incapaz de hostear lobby:
 Jogo online nao esta disponivel.#
-5569 Gostaria de hospedar via
+5569 Gostaria de hostear via
 Epic Online para crossplay?#
 5570 Falha ao abrir socket UDP
 na porta %hu.#
@@ -5003,10 +5001,10 @@ pela internet (desativado)#
 5576 Entre em um jogo multijogador#
 5577 NOVO AVENTUREIRO#
 5578 Aventura Local#
-5579 Hospedar Festa
+5579 Hostear Party
 Sem Fio#
-5580 Hospedar Festa LAN#
-5581 Hospedar Festa Online#
+5580 Hostear Party LAN#
+5581 Hostear Party Online#
 5582 Navegador de Lobby#
 5583 Barony e um jogo desafiador.
 Voce gostaria de jogar um tutorial?#
@@ -5036,9 +5034,9 @@ Nv%d#
 5595 Nenhum arquivo de salvamento compativel encontrado.#
 5596 Um jogador#
 5597 Host Online %dp (p1)#
-5598 Cliente Online %dp (p%d)#
+5598 Client Online %dp (p%d)#
 5599 Host Local %dp (p1)#
-5600 Cliente Local %dp (p%d)#
+5600 Client Local %dp (p%d)#
 5601 Tela Dividida %dp#
 5602 CONTINUAR AVENTURA#
 5603 Jogos Locais#
@@ -5622,7 +5620,7 @@ intro - God Rest Ye Merry Gentlemen by NaturesEye#
 6052 Seu grupo foi aniquilado...#
 6053 PERSONALIZAR REGRAS#
 6054 SEMENTE PERSONALIZADA#
-6055 Insira o nome da semente...#
+6055 Insira o nome da seed...#
 6056 Nenhum#
 6057 Aqui jaz
 %s
@@ -5738,7 +5736,7 @@ corresponde ao desafio do host.#
 6130 Nao foi possivel entrar no lobby.
 Entrar em desafios nao e
 suportado.#
-6131 Eventos de semente requerem que os mods
+6131 Eventos de seed requerem que os mods
 sejam descarregados antes de comecar.#
 6132 O lobby requer que os mods sejam
 descarregados antes de entrar.#
@@ -5794,9 +5792,9 @@ o Matador!#
 sua tentativa de pontuacao One-Shot.#
 6168 Sair agora encerrara esta corrida e
 submetera como sua pontuacao One-Shot.#
-6169 Novos Eventos de Semente Disponiveis!#
+6169 Novos Eventos de Seed Disponiveis!#
 6170 
-Visite o menu de Eventos de Semente
+Visite o menu de Eventos de Seed
 para participar.#
 6171 Desbloqueie a Conquista:
 "%s"
