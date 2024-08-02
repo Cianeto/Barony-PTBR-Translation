@@ -14,8 +14,8 @@
             "name_unidentified": "espada de bronze"
         },
         "bronze_mace": {
-            "name_identified": "maça de bronze",
-            "name_unidentified": "maça de bronze"
+            "name_identified": "maca de bronze",
+            "name_unidentified": "maca de bronze"
         },
         "bronze_axe": {
             "name_identified": "machado de bronze",
@@ -30,16 +30,16 @@
             "name_unidentified": "estilingue"
         },
         "iron_spear": {
-            "name_identified": "lança de ferro",
-            "name_unidentified": "lança de ferro"
+            "name_identified": "lanca de ferro",
+            "name_unidentified": "lanca de ferro"
         },
         "iron_sword": {
             "name_identified": "espada de ferro",
             "name_unidentified": "espada de ferro"
         },
         "iron_mace": {
-            "name_identified": "maça de ferro",
-            "name_unidentified": "maça de ferro"
+            "name_identified": "maca de ferro",
+            "name_unidentified": "maca de ferro"
         },
         "iron_axe": {
             "name_identified": "machado de ferro",
@@ -54,28 +54,28 @@
             "name_unidentified": "arco curto"
         },
         "steel_halberd": {
-            "name_identified": "alabarda de aço",
-            "name_unidentified": "alabarda de aço"
+            "name_identified": "alabarda de aco",
+            "name_unidentified": "alabarda de aco"
         },
         "steel_sword": {
-            "name_identified": "espada de aço",
-            "name_unidentified": "espada de aço"
+            "name_identified": "espada de aco",
+            "name_unidentified": "espada de aco"
         },
         "steel_mace": {
-            "name_identified": "maça de aço",
-            "name_unidentified": "maça de aço"
+            "name_identified": "maca de aco",
+            "name_unidentified": "maca de aco"
         },
         "steel_axe": {
-            "name_identified": "machado de aço",
-            "name_unidentified": "machado de aço"
+            "name_identified": "machado de aco",
+            "name_unidentified": "machado de aco"
         },
         "steel_shield": {
-            "name_identified": "escudo de aço",
-            "name_unidentified": "escudo de aço"
+            "name_identified": "escudo de aco",
+            "name_unidentified": "escudo de aco"
         },
         "steel_shield_resistance": {
-            "name_identified": "escudo de aço de resistência mágica",
-            "name_unidentified": "escudo de aço"
+            "name_identified": "escudo de aco de resistencia magica",
+            "name_unidentified": "escudo de aco"
         },
         "crossbow": {
             "name_identified": "besta",
@@ -90,19 +90,19 @@
             "name_unidentified": "luvas"
         },
         "bracers": {
-            "name_identified": "braçadeiras de ferro",
-            "name_unidentified": "braçadeiras"
+            "name_identified": "bracadeiras de ferro",
+            "name_unidentified": "bracadeiras"
         },
         "bracers_constitution": {
-            "name_identified": "braçadeiras de ferro da constituição",
-            "name_unidentified": "braçadeiras"
+            "name_identified": "bracadeiras de ferro da constituicão",
+            "name_unidentified": "bracadeiras"
         },
         "gauntlets": {
-            "name_identified": "manoplas de aço",
+            "name_identified": "manoplas de aco",
             "name_unidentified": "manoplas"
         },
         "gauntlets_strength": {
-            "name_identified": "manoplas de aço da força",
+            "name_identified": "manoplas de aco da forca",
             "name_unidentified": "manoplas"
         },
         "cloak": {
@@ -110,7 +110,7 @@
             "name_unidentified": "manto"
         },
         "cloak_magicreflection": {
-            "name_identified": "manto de reflexão mágica",
+            "name_identified": "manto de reflexão magica",
             "name_unidentified": "manto"
         },
         "cloak_invisibility": {
@@ -118,7 +118,7 @@
             "name_unidentified": "manto"
         },
         "cloak_protection": {
-            "name_identified": "manto de proteção",
+            "name_identified": "manto de protecão",
             "name_unidentified": "manto"
         },
         "leather_boots": {
@@ -134,20 +134,20 @@
             "name_unidentified": "botas de ferro"
         },
         "iron_boots_waterwalking": {
-            "name_identified": "botas de ferro de caminhar sobre a água",
+            "name_identified": "botas de ferro de caminhar sobre a agua",
             "name_unidentified": "botas de ferro"
         },
         "steel_boots": {
-            "name_identified": "botas de aço",
-            "name_unidentified": "botas de aço"
+            "name_identified": "botas de aco",
+            "name_unidentified": "botas de aco"
         },
         "steel_boots_levitation": {
-            "name_identified": "botas de aço da levitação",
-            "name_unidentified": "botas de aço"
+            "name_identified": "botas de aco da levitacão",
+            "name_unidentified": "botas de aco"
         },
         "steel_boots_feather": {
-            "name_identified": "botas de aço da pluma",
-            "name_unidentified": "botas de aço"
+            "name_identified": "botas de aco da pluma",
+            "name_unidentified": "botas de aco"
         },
         "leather_breastpiece": {
             "name_identified": "peitoral de couro",
@@ -158,24 +158,24 @@
             "name_unidentified": "peitoral de ferro"
         },
         "steel_breastpiece": {
-            "name_identified": "peitoral de aço",
-            "name_unidentified": "peitoral de aço"
+            "name_identified": "peitoral de aco",
+            "name_unidentified": "peitoral de aco"
         },
         "hat_phrygian": {
-            "name_identified": "chapéu frígio",
-            "name_unidentified": "chapéu frígio"
+            "name_identified": "chapeu frigio",
+            "name_unidentified": "chapeu frigio"
         },
         "hat_hood": {
             "name_identified": "capuz",
             "name_unidentified": "capuz"
         },
         "hat_wizard": {
-            "name_identified": "chapéu de mago",
-            "name_unidentified": "chapéu de mago"
+            "name_identified": "chapeu de mago",
+            "name_unidentified": "chapeu de mago"
         },
         "hat_jester": {
-            "name_identified": "chapéu de bobo",
-            "name_unidentified": "chapéu de bobo"
+            "name_identified": "chapeu de bobo",
+            "name_unidentified": "chapeu de bobo"
         },
         "leather_helm": {
             "name_identified": "elmo de couro",
@@ -186,23 +186,23 @@
             "name_unidentified": "elmo de ferro"
         },
         "steel_helm": {
-            "name_identified": "elmo de aço",
-            "name_unidentified": "elmo de aço"
+            "name_identified": "elmo de aco",
+            "name_unidentified": "elmo de aco"
         },
         "amulet_sexchange": {
             "name_identified": "amuleto de troca de sexo",
             "name_unidentified": "amuleto"
         },
         "amulet_lifesaving": {
-            "name_identified": "amuleto de salvação",
+            "name_identified": "amuleto de salvacão",
             "name_unidentified": "amuleto"
         },
         "amulet_waterbreathing": {
-            "name_identified": "amuleto de natação olímpica",
+            "name_identified": "amuleto de natacão olimpica",
             "name_unidentified": "amuleto"
         },
         "amulet_magicreflection": {
-            "name_identified": "amuleto de reflexão mágica",
+            "name_identified": "amuleto de reflexão magica",
             "name_unidentified": "amuleto"
         },
         "amulet_strangulation": {
@@ -210,75 +210,75 @@
             "name_unidentified": "amuleto"
         },
         "amulet_poisonresistance": {
-            "name_identified": "amuleto de resistência a veneno",
+            "name_identified": "amuleto de resistencia a veneno",
             "name_unidentified": "amuleto"
         },
         "potion_water": {
-            "name_identified": "garrafa de água",
-            "name_unidentified": "poção"
+            "name_identified": "garrafa de agua",
+            "name_unidentified": "pocão"
         },
         "potion_booze": {
-            "name_identified": "garrafa de bebida alcoólica",
-            "name_unidentified": "poção"
+            "name_identified": "garrafa de bebida alcoolica",
+            "name_unidentified": "pocão"
         },
         "potion_juice": {
             "name_identified": "garrafa de suco de fruta",
-            "name_unidentified": "poção"
+            "name_unidentified": "pocão"
         },
         "potion_sickness": {
-            "name_identified": "poção de doença",
-            "name_unidentified": "poção"
+            "name_identified": "pocão de doenca",
+            "name_unidentified": "pocão"
         },
         "potion_confusion": {
-            "name_identified": "poção de confusão",
-            "name_unidentified": "poção"
+            "name_identified": "pocão de confusão",
+            "name_unidentified": "pocão"
         },
         "potion_extrahealing": {
-            "name_identified": "poção de cura extra",
-            "name_unidentified": "poção"
+            "name_identified": "pocão de cura extra",
+            "name_unidentified": "pocão"
         },
         "potion_healing": {
-            "name_identified": "poção de cura",
-            "name_unidentified": "poção"
+            "name_identified": "pocão de cura",
+            "name_unidentified": "pocão"
         },
         "potion_cureailment": {
-            "name_identified": "poção de cura de enfermidade",
-            "name_unidentified": "poção"
+            "name_identified": "pocão de cura de enfermidade",
+            "name_unidentified": "pocão"
         },
         "potion_blindness": {
-            "name_identified": "poção de cegueira",
-            "name_unidentified": "poção"
+            "name_identified": "pocão de cegueira",
+            "name_unidentified": "pocão"
         },
         "potion_restoremagic": {
-            "name_identified": "poção de restauração mágica",
-            "name_unidentified": "poção"
+            "name_identified": "pocão de restauracão magica",
+            "name_unidentified": "pocão"
         },
         "potion_invisibility": {
-            "name_identified": "poção de invisibilidade",
-            "name_unidentified": "poção"
+            "name_identified": "pocão de invisibilidade",
+            "name_unidentified": "pocão"
         },
         "potion_levitation": {
-            "name_identified": "poção de levitação",
-            "name_unidentified": "poção"
+            "name_identified": "pocão de levitacão",
+            "name_unidentified": "pocão"
         },
         "potion_speed": {
-            "name_identified": "poção de velocidade",
-            "name_unidentified": "poção"
+            "name_identified": "pocão de velocidade",
+            "name_unidentified": "pocão"
         },
         "potion_acid": {
-            "name_identified": "poção de ácido",
-            "name_unidentified": "poção"
+            "name_identified": "pocão de acido",
+            "name_unidentified": "pocão"
         },
         "potion_paralysis": {
-            "name_identified": "poção de paralisia",
-            "name_unidentified": "poção"
+            "name_identified": "pocão de paralisia",
+            "name_unidentified": "pocão"
         },
         "scroll_mail": {
-            "name_identified": "peça de correio",
+            "name_identified": "peca de correio",
             "name_unidentified": "pergaminho carimbado"
         },
         "scroll_identify": {
-            "name_identified": "pergaminho de identificação",
+            "name_identified": "pergaminho de identificacão",
             "name_unidentified": "pergaminho"
         },
         "scroll_light": {
@@ -286,24 +286,24 @@
             "name_unidentified": "pergaminho"
         },
         "magicstaff_slow": {
-            "name_identified": "cajado mágico de lentidão",
-            "name_unidentified": "cajado mágico"
+            "name_identified": "cajado magico de lentidão",
+            "name_unidentified": "cajado magico"
         },
         "magicstaff_cold": {
-            "name_identified": "cajado mágico de frio",
-            "name_unidentified": "cajado mágico"
+            "name_identified": "cajado magico de frio",
+            "name_unidentified": "cajado magico"
         },
         "magicstaff_fire": {
-            "name_identified": "cajado mágico de fogo",
-            "name_unidentified": "cajado mágico"
+            "name_identified": "cajado magico de fogo",
+            "name_unidentified": "cajado magico"
         },
         "magicstaff_lightning": {
-            "name_identified": "cajado mágico de relâmpago",
-            "name_unidentified": "cajado mágico"
+            "name_identified": "cajado magico de relampago",
+            "name_unidentified": "cajado magico"
         },
         "magicstaff_sleep": {
-            "name_identified": "cajado mágico de sono",
-            "name_unidentified": "cajado mágico"
+            "name_identified": "cajado magico de sono",
+            "name_unidentified": "cajado magico"
         },
         "ring_adornment": {
             "name_identified": "anel de adorno",
@@ -314,7 +314,7 @@
             "name_unidentified": "anel"
         },
         "ring_protection": {
-            "name_identified": "anel de proteção",
+            "name_identified": "anel de protecão",
             "name_unidentified": "anel"
         },
         "ring_warning": {
@@ -322,11 +322,11 @@
             "name_unidentified": "anel"
         },
         "ring_strength": {
-            "name_identified": "anel de força",
+            "name_identified": "anel de forca",
             "name_unidentified": "anel"
         },
         "ring_constitution": {
-            "name_identified": "anel de constituição",
+            "name_identified": "anel de constituicão",
             "name_unidentified": "anel"
         },
         "ring_invisibility": {
@@ -334,7 +334,7 @@
             "name_unidentified": "anel"
         },
         "ring_magicresistance": {
-            "name_identified": "anel de resistência mágica",
+            "name_identified": "anel de resistencia magica",
             "name_unidentified": "anel"
         },
         "ring_conflict": {
@@ -342,11 +342,11 @@
             "name_unidentified": "anel"
         },
         "ring_levitation": {
-            "name_identified": "anel de levitação",
+            "name_identified": "anel de levitacão",
             "name_unidentified": "anel"
         },
         "ring_regeneration": {
-            "name_identified": "anel de regeneração",
+            "name_identified": "anel de regeneracão",
             "name_unidentified": "anel"
         },
         "ring_teleportation": {
@@ -354,88 +354,88 @@
             "name_unidentified": "anel"
         },
         "spellbook_forcebolt": {
-            "name_identified": "livro de feitiços de projétil de força",
-            "name_unidentified": "livro de feitiços"
+            "name_identified": "livro de feiticos de projetil de forca",
+            "name_unidentified": "livro de feiticos"
         },
         "spellbook_magicmissile": {
-            "name_identified": "livro de feitiços de míssil mágico",
-            "name_unidentified": "livro de feitiços"
+            "name_identified": "livro de feiticos de missil magico",
+            "name_unidentified": "livro de feiticos"
         },
         "spellbook_cold": {
-            "name_identified": "livro de feitiços de frio",
-            "name_unidentified": "livro de feitiços"
+            "name_identified": "livro de feiticos de frio",
+            "name_unidentified": "livro de feiticos"
         },
         "spellbook_fireball": {
-            "name_identified": "livro de feitiços de bola de fogo",
-            "name_unidentified": "livro de feitiços"
+            "name_identified": "livro de feiticos de bola de fogo",
+            "name_unidentified": "livro de feiticos"
         },
         "spellbook_light": {
-            "name_identified": "livro de feitiços de luz",
-            "name_unidentified": "livro de feitiços"
+            "name_identified": "livro de feiticos de luz",
+            "name_unidentified": "livro de feiticos"
         },
         "spellbook_removecurse": {
-            "name_identified": "livro de feitiços de remover maldição",
-            "name_unidentified": "livro de feitiços"
+            "name_identified": "livro de feiticos de remover maldicão",
+            "name_unidentified": "livro de feiticos"
         },
         "spellbook_lightning": {
-            "name_identified": "livro de feitiços de relâmpago",
-            "name_unidentified": "livro de feitiços"
+            "name_identified": "livro de feiticos de relampago",
+            "name_unidentified": "livro de feiticos"
         },
         "spellbook_identify": {
-            "name_identified": "livro de feitiços de identificação",
-            "name_unidentified": "livro de feitiços"
+            "name_identified": "livro de feiticos de identificacão",
+            "name_unidentified": "livro de feiticos"
         },
         "spellbook_magicmapping": {
-            "name_identified": "livro de feitiços de mapeamento mágico",
-            "name_unidentified": "livro de feitiços"
+            "name_identified": "livro de feiticos de mapeamento magico",
+            "name_unidentified": "livro de feiticos"
         },
         "spellbook_sleep": {
-            "name_identified": "livro de feitiços de sono",
-            "name_unidentified": "livro de feitiços"
+            "name_identified": "livro de feiticos de sono",
+            "name_unidentified": "livro de feiticos"
         },
         "spellbook_confuse": {
-            "name_identified": "livro de feitiços de confusão",
-            "name_unidentified": "livro de feitiços"
+            "name_identified": "livro de feiticos de confusão",
+            "name_unidentified": "livro de feiticos"
         },
         "spellbook_slow": {
-            "name_identified": "livro de feitiços de lentidão",
-            "name_unidentified": "livro de feitiços"
+            "name_identified": "livro de feiticos de lentidão",
+            "name_unidentified": "livro de feiticos"
         },
         "spellbook_opening": {
-            "name_identified": "livro de feitiços de abertura",
-            "name_unidentified": "livro de feitiços"
+            "name_identified": "livro de feiticos de abertura",
+            "name_unidentified": "livro de feiticos"
         },
         "spellbook_locking": {
-            "name_identified": "livro de feitiços de trancamento",
-            "name_unidentified": "livro de feitiços"
+            "name_identified": "livro de feiticos de trancamento",
+            "name_unidentified": "livro de feiticos"
         },
         "spellbook_levitation": {
-            "name_identified": "livro de feitiços de levitação",
-            "name_unidentified": "livro de feitiços"
+            "name_identified": "livro de feiticos de levitacão",
+            "name_unidentified": "livro de feiticos"
         },
         "spellbook_invisibility": {
-            "name_identified": "livro de feitiços de invisibilidade",
-            "name_unidentified": "livro de feitiços"
+            "name_identified": "livro de feiticos de invisibilidade",
+            "name_unidentified": "livro de feiticos"
         },
         "spellbook_teleportation": {
-            "name_identified": "livro de feitiços de teletransporte",
-            "name_unidentified": "livro de feitiços"
+            "name_identified": "livro de feiticos de teletransporte",
+            "name_unidentified": "livro de feiticos"
         },
         "spellbook_healing": {
-            "name_identified": "livro de feitiços de cura",
-            "name_unidentified": "livro de feitiços"
+            "name_identified": "livro de feiticos de cura",
+            "name_unidentified": "livro de feiticos"
         },
         "spellbook_extrahealing": {
-            "name_identified": "livro de feitiços de cura extra",
-            "name_unidentified": "livro de feitiços"
+            "name_identified": "livro de feiticos de cura extra",
+            "name_unidentified": "livro de feiticos"
         },
         "spellbook_cureailment": {
-            "name_identified": "livro de feitiços de cura de enfermidade",
-            "name_unidentified": "livro de feitiços"
+            "name_identified": "livro de feiticos de cura de enfermidade",
+            "name_unidentified": "livro de feiticos"
         },
         "spellbook_dig": {
-            "name_identified": "livro de feitiços de escavação",
-            "name_unidentified": "livro de feitiços"
+            "name_identified": "livro de feiticos de escavacão",
+            "name_unidentified": "livro de feiticos"
         },
         "gem_rock": {
             "name_identified": "pedra",
@@ -458,7 +458,7 @@
             "name_unidentified": "gema"
         },
         "gem_amber": {
-            "name_identified": "âmbar",
+            "name_identified": "ambar",
             "name_unidentified": "gema"
         },
         "gem_citrine": {
@@ -478,7 +478,7 @@
             "name_unidentified": "gema"
         },
         "gem_aquamarine": {
-            "name_identified": "água-marinha",
+            "name_identified": "agua-marinha",
             "name_unidentified": "gema"
         },
         "gem_amethyst": {
@@ -506,7 +506,7 @@
             "name_unidentified": "gema"
         },
         "gem_glass": {
-            "name_identified": "pedaço de vidro sem valor",
+            "name_identified": "pedaco de vidro sem valor",
             "name_unidentified": "gema"
         },
         "tool_pickaxe": {
@@ -546,8 +546,8 @@
             "name_unidentified": "toalha"
         },
         "tool_glasses": {
-            "name_identified": "par de óculos",
-            "name_unidentified": "par de óculos"
+            "name_identified": "par de oculos",
+            "name_unidentified": "par de oculos"
         },
         "tool_beartrap": {
             "name_identified": "armadilha para ursos",
@@ -566,8 +566,8 @@
             "name_unidentified": "queijo"
         },
         "food_apple": {
-            "name_identified": "maçã",
-            "name_unidentified": "maçã"
+            "name_identified": "macã",
+            "name_unidentified": "macã"
         },
         "food_meat": {
             "name_identified": "carne",
@@ -583,31 +583,31 @@
         },
         "readable_book": {
             "name_identified": "livro",
-            "name_unidentified": "livro legível"
+            "name_unidentified": "livro legivel"
         },
         "spell_item": {
-            "name_identified": "feitiço",
-            "name_unidentified": "feitiço"
+            "name_identified": "feitico",
+            "name_unidentified": "feitico"
         },
         "artifact_sword": {
             "name_identified": "Dyrnwyn",
-            "name_unidentified": "espada mágica"
+            "name_unidentified": "espada magica"
         },
         "artifact_mace": {
             "name_identified": "Sharur",
-            "name_unidentified": "maça mágica"
+            "name_unidentified": "maca magica"
         },
         "artifact_spear": {
             "name_identified": "Gungnir",
-            "name_unidentified": "lança mágica"
+            "name_unidentified": "lanca magica"
         },
         "artifact_axe": {
             "name_identified": "Parashu",
-            "name_unidentified": "machado mágico"
+            "name_unidentified": "machado magico"
         },
         "artifact_bow": {
             "name_identified": "Khryselakatos",
-            "name_unidentified": "arco mágico"
+            "name_unidentified": "arco magico"
         },
         "artifact_breastpiece": {
             "name_identified": "Correio do Dragão",
@@ -618,7 +618,7 @@
             "name_unidentified": "elmo de artefato"
         },
         "artifact_boots": {
-            "name_identified": "Passos do Oráculo",
+            "name_identified": "Passos do Oraculo",
             "name_unidentified": "botas de artefato"
         },
         "artifact_cloak": {
@@ -626,7 +626,7 @@
             "name_unidentified": "manto de artefato"
         },
         "artifact_gloves": {
-            "name_identified": "Braçadeira do Djinni",
+            "name_identified": "Bracadeira do Djinni",
             "name_unidentified": "luvas de artefato"
         },
         "crystal_breastpiece": {
@@ -666,8 +666,8 @@
             "name_unidentified": "escudo de espelho"
         },
         "brass_knuckles": {
-            "name_identified": "soco inglês",
-            "name_unidentified": "soco inglês"
+            "name_identified": "soco ingles",
+            "name_unidentified": "soco ingles"
         },
         "iron_knuckles": {
             "name_identified": "soco de ferro",
@@ -690,16 +690,16 @@
             "name_unidentified": "espada de cristal"
         },
         "crystal_spear": {
-            "name_identified": "lança de cristal",
-            "name_unidentified": "lança de cristal"
+            "name_identified": "lanca de cristal",
+            "name_unidentified": "lanca de cristal"
         },
         "crystal_battleaxe": {
             "name_identified": "machado de cristal",
             "name_unidentified": "machado de cristal"
         },
         "crystal_mace": {
-            "name_identified": "maça de cristal",
-            "name_unidentified": "maça de cristal"
+            "name_identified": "maca de cristal",
+            "name_unidentified": "maca de cristal"
         },
         "bronze_tomahawk": {
             "name_identified": "tomahawk de bronze",
@@ -710,8 +710,8 @@
             "name_unidentified": "adaga de ferro"
         },
         "steel_chakram": {
-            "name_identified": "chakram de aço",
-            "name_unidentified": "chakram de aço"
+            "name_identified": "chakram de aco",
+            "name_unidentified": "chakram de aco"
         },
         "crystal_shuriken": {
             "name_identified": "shuriken de cristal",
@@ -722,19 +722,19 @@
             "name_unidentified": "manto preto"
         },
         "magicstaff_stoneblood": {
-            "name_identified": "bastão mágico de sangue de pedra",
-            "name_unidentified": "bastão mágico"
+            "name_identified": "bastão magico de sangue de pedra",
+            "name_unidentified": "bastão magico"
         },
         "magicstaff_bleed": {
-            "name_identified": "bastão mágico de sangria",
-            "name_unidentified": "bastão mágico"
+            "name_identified": "bastão magico de sangria",
+            "name_unidentified": "bastão magico"
         },
         "magicstaff_summon": {
-            "name_identified": "bastão mágico de conjuração de esqueleto",
-            "name_unidentified": "bastão mágico"
+            "name_identified": "bastão magico de conjuracão de esqueleto",
+            "name_unidentified": "bastão magico"
         },
         "tool_blindfold_focus": {
-            "name_identified": "venda de ação livre",
+            "name_identified": "venda de acão livre",
             "name_unidentified": "venda"
         },
         "tool_blindfold_telepathy": {
@@ -742,80 +742,80 @@
             "name_unidentified": "venda"
         },
         "spellbook_summon": {
-            "name_identified": "livro de feitiços de conjuração de esqueleto",
-            "name_unidentified": "livro de feitiços"
+            "name_identified": "livro de feiticos de conjuracão de esqueleto",
+            "name_unidentified": "livro de feiticos"
         },
         "spellbook_stoneblood": {
-            "name_identified": "livro de feitiços de sangue de pedra",
-            "name_unidentified": "livro de feitiços"
+            "name_identified": "livro de feiticos de sangue de pedra",
+            "name_unidentified": "livro de feiticos"
         },
         "spellbook_bleed": {
-            "name_identified": "livro de feitiços de sangria",
-            "name_unidentified": "livro de feitiços"
+            "name_identified": "livro de feiticos de sangria",
+            "name_unidentified": "livro de feiticos"
         },
         "spellbook_reflect_magic": {
-            "name_identified": "livro de feitiços de refletir magia",
-            "name_unidentified": "livro de feitiços"
+            "name_identified": "livro de feiticos de refletir magia",
+            "name_unidentified": "livro de feiticos"
         },
         "spellbook_acid_spray": {
-            "name_identified": "livro de feitiços de spray ácido",
-            "name_unidentified": "livro de feitiços"
+            "name_identified": "livro de feiticos de spray acido",
+            "name_unidentified": "livro de feiticos"
         },
         "spellbook_steal_weapon": {
-            "name_identified": "livro de feitiços de roubar arma",
-            "name_unidentified": "livro de feitiços"
+            "name_identified": "livro de feiticos de roubar arma",
+            "name_unidentified": "livro de feiticos"
         },
         "spellbook_drain_soul": {
-            "name_identified": "livro de feitiços de drenar alma",
-            "name_unidentified": "livro de feitiços"
+            "name_identified": "livro de feiticos de drenar alma",
+            "name_unidentified": "livro de feiticos"
         },
         "spellbook_vampiric_aura": {
-            "name_identified": "livro de feitiços de aura vampírica",
-            "name_unidentified": "livro de feitiços"
+            "name_identified": "livro de feiticos de aura vampirica",
+            "name_unidentified": "livro de feiticos"
         },
         "spellbook_charm": {
-            "name_identified": "livro de feitiços de encantar monstro",
-            "name_unidentified": "livro de feitiços"
+            "name_identified": "livro de feiticos de encantar monstro",
+            "name_unidentified": "livro de feiticos"
         },
         "potion_empty": {
             "name_identified": "garrafa vazia",
             "name_unidentified": "garrafa vazia"
         },
         "artifact_orb_blue": {
-            "name_identified": "orbe mística azul",
-            "name_unidentified": "orbe mística azul"
+            "name_identified": "orbe mistica azul",
+            "name_unidentified": "orbe mistica azul"
         },
         "artifact_orb_red": {
-            "name_identified": "orbe mística vermelha",
-            "name_unidentified": "orbe mística vermelha"
+            "name_identified": "orbe mistica vermelha",
+            "name_unidentified": "orbe mistica vermelha"
         },
         "artifact_orb_purple": {
-            "name_identified": "orbe mística roxa",
-            "name_unidentified": "orbe mística roxa"
+            "name_identified": "orbe mistica roxa",
+            "name_unidentified": "orbe mistica roxa"
         },
         "artifact_orb_green": {
-            "name_identified": "orbe mística verde",
-            "name_unidentified": "orbe mística verde"
+            "name_identified": "orbe mistica verde",
+            "name_unidentified": "orbe mistica verde"
         },
         "tunic": {
-            "name_identified": "túnica",
-            "name_unidentified": "túnica"
+            "name_identified": "tunica",
+            "name_unidentified": "tunica"
         },
         "hat_fez": {
             "name_identified": "fez",
             "name_unidentified": "fez"
         },
         "magicstaff_charm": {
-            "name_identified": "bastão mágico de encantar monstro",
-            "name_unidentified": "bastão mágico"
+            "name_identified": "bastão magico de encantar monstro",
+            "name_unidentified": "bastão magico"
         },
         "potion_polymorph": {
-            "name_identified": "poção de polimorfia",
-            "name_unidentified": "poção"
+            "name_identified": "pocão de polimorfia",
+            "name_unidentified": "pocão"
         },
         "food_blood": {
             "name_identified": "frasco de sangue",
-            "name_unidentified": "poção"
+            "name_unidentified": "pocão"
         },
         "cloak_backpack": {
             "name_identified": "mochila",
@@ -826,28 +826,28 @@
             "name_unidentified": "alambique"
         },
         "potion_firestorm": {
-            "name_identified": "poção de tempestade de fogo",
-            "name_unidentified": "poção instável"
+            "name_identified": "pocão de tempestade de fogo",
+            "name_unidentified": "pocão instavel"
         },
         "potion_icestorm": {
-            "name_identified": "poção de tempestade de gelo",
-            "name_unidentified": "poção instável"
+            "name_identified": "pocão de tempestade de gelo",
+            "name_unidentified": "pocão instavel"
         },
         "potion_thunderstorm": {
-            "name_identified": "poção de tempestade de trovão",
-            "name_unidentified": "poção instável"
+            "name_identified": "pocão de tempestade de trovão",
+            "name_unidentified": "pocão instavel"
         },
         "potion_strength": {
-            "name_identified": "poção de força",
-            "name_unidentified": "poção"
+            "name_identified": "pocão de forca",
+            "name_unidentified": "pocão"
         },
         "suede_boots": {
-            "name_identified": "botas de camurça",
-            "name_unidentified": "botas de camurça"
+            "name_identified": "botas de camurca",
+            "name_unidentified": "botas de camurca"
         },
         "suede_gloves": {
-            "name_identified": "luvas de camurça",
-            "name_unidentified": "luvas de camurça"
+            "name_identified": "luvas de camurca",
+            "name_unidentified": "luvas de camurca"
         },
         "cloak_silver": {
             "name_identified": "manto prateado",
@@ -866,115 +866,115 @@
             "name_unidentified": "colete prateado"
         },
         "spellbook_revert_form": {
-            "name_identified": "livro de feitiços de reverter forma",
-            "name_unidentified": "livro de feitiços"
+            "name_identified": "livro de feiticos de reverter forma",
+            "name_unidentified": "livro de feiticos"
         },
         "spellbook_rat_form": {
-            "name_identified": "livro de feitiços de forma de rato",
-            "name_unidentified": "livro de feitiços"
+            "name_identified": "livro de feiticos de forma de rato",
+            "name_unidentified": "livro de feiticos"
         },
         "spellbook_spider_form": {
-            "name_identified": "livro de feitiços de forma de artrópode",
-            "name_unidentified": "livro de feitiços"
+            "name_identified": "livro de feiticos de forma de artropode",
+            "name_unidentified": "livro de feiticos"
         },
         "spellbook_troll_form": {
-            "name_identified": "livro de feitiços de forma de troll",
-            "name_unidentified": "livro de feitiços"
+            "name_identified": "livro de feiticos de forma de troll",
+            "name_unidentified": "livro de feiticos"
         },
         "spellbook_imp_form": {
-            "name_identified": "livro de feitiços de forma de diabrete",
-            "name_unidentified": "livro de feitiços"
+            "name_identified": "livro de feiticos de forma de diabrete",
+            "name_unidentified": "livro de feiticos"
         },
         "spellbook_spray_web": {
-            "name_identified": "livro de feitiços de spray de teia",
-            "name_unidentified": "livro de feitiços"
+            "name_identified": "livro de feiticos de spray de teia",
+            "name_unidentified": "livro de feiticos"
         },
         "spellbook_poison": {
-            "name_identified": "livro de feitiços de veneno",
-            "name_unidentified": "livro de feitiços"
+            "name_identified": "livro de feiticos de veneno",
+            "name_unidentified": "livro de feiticos"
         },
         "spellbook_speed": {
-            "name_identified": "livro de feitiços de velocidade",
-            "name_unidentified": "livro de feitiços"
+            "name_identified": "livro de feiticos de velocidade",
+            "name_unidentified": "livro de feiticos"
         },
         "spellbook_fear": {
-            "name_identified": "livro de feitiços de medo",
-            "name_unidentified": "livro de feitiços"
+            "name_identified": "livro de feiticos de medo",
+            "name_unidentified": "livro de feiticos"
         },
         "spellbook_strike": {
-            "name_identified": "livro de feitiços de golpe poderoso",
-            "name_unidentified": "livro de feitiços"
+            "name_identified": "livro de feiticos de golpe poderoso",
+            "name_unidentified": "livro de feiticos"
         },
         "spellbook_detect_food": {
-            "name_identified": "livro de feitiços de detectar comida",
-            "name_unidentified": "livro de feitiços"
+            "name_identified": "livro de feiticos de detectar comida",
+            "name_unidentified": "livro de feiticos"
         },
         "spellbook_weakness": {
-            "name_identified": "livro de feitiços de fraqueza",
-            "name_unidentified": "livro de feitiços"
+            "name_identified": "livro de feiticos de fraqueza",
+            "name_unidentified": "livro de feiticos"
         },
         "mask_shaman": {
-            "name_identified": "máscara de xamã",
-            "name_unidentified": "máscara de xamã"
+            "name_identified": "mascara de xamã",
+            "name_unidentified": "mascara de xamã"
         },
         "spellbook_amplify_magic": {
-            "name_identified": "livro de feitiços de amplificar magia",
-            "name_unidentified": "livro de feitiços"
+            "name_identified": "livro de feiticos de amplificar magia",
+            "name_unidentified": "livro de feiticos"
         },
         "spellbook_shadow_tag": {
-            "name_identified": "livro de feitiços de marca arcana",
-            "name_unidentified": "livro de feitiços"
+            "name_identified": "livro de feiticos de marca arcana",
+            "name_unidentified": "livro de feiticos"
         },
         "spellbook_telepull": {
-            "name_identified": "livro de feitiços de teleporte de outro",
-            "name_unidentified": "livro de feitiços"
+            "name_identified": "livro de feiticos de teleporte de outro",
+            "name_unidentified": "livro de feiticos"
         },
         "spellbook_demon_illu": {
-            "name_identified": "livro de feitiços de demônio interior",
-            "name_unidentified": "livro de feitiços"
+            "name_identified": "livro de feiticos de demonio interior",
+            "name_unidentified": "livro de feiticos"
         },
         "spellbook_trolls_blood": {
-            "name_identified": "livro de feitiços de sangue de troll",
-            "name_unidentified": "livro de feitiços"
+            "name_identified": "livro de feiticos de sangue de troll",
+            "name_unidentified": "livro de feiticos"
         },
         "spellbook_salvage": {
-            "name_identified": "livro de feitiços de recuperação",
-            "name_unidentified": "livro de feitiços"
+            "name_identified": "livro de feiticos de recuperacão",
+            "name_unidentified": "livro de feiticos"
         },
         "tool_whip": {
             "name_identified": "chicote",
             "name_unidentified": "chicote"
         },
         "spellbook_flutter": {
-            "name_identified": "livro de feitiços de flutuar",
-            "name_unidentified": "livro de feitiços"
+            "name_identified": "livro de feiticos de flutuar",
+            "name_unidentified": "livro de feiticos"
         },
         "spellbook_dash": {
-            "name_identified": "livro de feitiços de investida",
-            "name_unidentified": "livro de feitiços"
+            "name_identified": "livro de feiticos de investida",
+            "name_unidentified": "livro de feiticos"
         },
         "spellbook_self_polymorph": {
-            "name_identified": "livro de feitiços de polimorfia",
-            "name_unidentified": "livro de feitiços"
+            "name_identified": "livro de feiticos de polimorfia",
+            "name_unidentified": "livro de feiticos"
         },
         "spellbook_9": {
-            "name_identified": "livro de feitiços de 9",
-            "name_unidentified": "livro de feitiços"
+            "name_identified": "livro de feiticos de 9",
+            "name_unidentified": "livro de feiticos"
         },
         "spellbook_10": {
-            "name_identified": "livro de feitiços de 10",
-            "name_unidentified": "livro de feitiços"
+            "name_identified": "livro de feiticos de 10",
+            "name_unidentified": "livro de feiticos"
         },
         "magicstaff_poison": {
-            "name_identified": "bastão mágico de veneno",
-            "name_unidentified": "bastão mágico"
+            "name_identified": "bastão magico de veneno",
+            "name_unidentified": "bastão magico"
         },
         "tool_metal_scrap": {
             "name_identified": "sucata de metal",
             "name_unidentified": "sucata"
         },
         "tool_magic_scrap": {
-            "name_identified": "sucata mágica",
+            "name_identified": "sucata magica",
             "name_unidentified": "sucata"
         },
         "tool_tinkering_kit": {
@@ -1038,31 +1038,31 @@
             "name_unidentified": "pergaminho"
         },
         "quiver_silver": {
-            "name_identified": "aljava de munição de prata",
+            "name_identified": "aljava de municão de prata",
             "name_unidentified": "aljava"
         },
         "quiver_pierce": {
-            "name_identified": "aljava de munição perfurante",
+            "name_identified": "aljava de municão perfurante",
             "name_unidentified": "aljava"
         },
         "quiver_lightweight": {
-            "name_identified": "aljava de munição rápida",
+            "name_identified": "aljava de municão rapida",
             "name_unidentified": "aljava"
         },
         "quiver_fire": {
-            "name_identified": "aljava de munição de fogo",
+            "name_identified": "aljava de municão de fogo",
             "name_unidentified": "aljava"
         },
         "quiver_heavy": {
-            "name_identified": "aljava de munição de impacto",
+            "name_identified": "aljava de municão de impacto",
             "name_unidentified": "aljava"
         },
         "quiver_crystal": {
-            "name_identified": "aljava de munição de cristal",
+            "name_identified": "aljava de municão de cristal",
             "name_unidentified": "aljava"
         },
         "quiver_hunting": {
-            "name_identified": "aljava de munição de caça",
+            "name_identified": "aljava de municão de caca",
             "name_unidentified": "aljava"
         },
         "longbow": {
@@ -1086,48 +1086,48 @@
             "name_unidentified": "pergaminho"
         },
         "monocle": {
-            "name_identified": "monóculo",
-            "name_unidentified": "monóculo"
+            "name_identified": "monoculo",
+            "name_unidentified": "monoculo"
         },
         "tool_player_loot_bag": {
             "name_identified": "caixa de morte",
             "name_unidentified": "caixa de morte"
         },
         "mask_bandit": {
-            "name_identified": "máscara de bandido",
-            "name_unidentified": "máscara de bandido"
+            "name_identified": "mascara de bandido",
+            "name_unidentified": "mascara de bandido"
         },
         "mask_eyepatch": {
             "name_identified": "tapa-olho",
             "name_unidentified": "tapa-olho"
         },
         "mask_masquerade": {
-            "name_identified": "máscara de baile",
-            "name_unidentified": "máscara de baile"
+            "name_identified": "mascara de baile",
+            "name_unidentified": "mascara de baile"
         },
         "mask_mouth_rose": {
             "name_identified": "rosa",
             "name_unidentified": "rosa"
         },
         "mask_golden": {
-            "name_identified": "máscara dourada",
-            "name_unidentified": "máscara dourada"
+            "name_identified": "mascara dourada",
+            "name_unidentified": "mascara dourada"
         },
         "mask_spooky": {
-            "name_identified": "máscara assustadora",
-            "name_unidentified": "máscara assustadora"
+            "name_identified": "mascara assustadora",
+            "name_unidentified": "mascara assustadora"
         },
         "mask_tech_goggles": {
-            "name_identified": "óculos tecnológicos",
-            "name_unidentified": "óculos tecnológicos"
+            "name_identified": "oculos tecnologicos",
+            "name_unidentified": "oculos tecnologicos"
         },
         "mask_hazard_goggles": {
-            "name_identified": "óculos de proteção",
-            "name_unidentified": "óculos de proteção"
+            "name_identified": "oculos de protecão",
+            "name_unidentified": "oculos de protecão"
         },
         "mask_phantom": {
-            "name_identified": "máscara fantasma",
-            "name_unidentified": "máscara fantasma"
+            "name_identified": "mascara fantasma",
+            "name_unidentified": "mascara fantasma"
         },
         "mask_pipe": {
             "name_identified": "cachimbo",
@@ -1138,24 +1138,24 @@
             "name_unidentified": "ramo de capim-doce"
         },
         "mask_plague": {
-            "name_identified": "máscara da peste",
-            "name_unidentified": "máscara da peste"
+            "name_identified": "mascara da peste",
+            "name_unidentified": "mascara da peste"
         },
         "mask_mouthknife": {
             "name_identified": "faca de boca",
             "name_unidentified": "faca de boca"
         },
         "hat_silken_bow": {
-            "name_identified": "laço de seda",
-            "name_unidentified": "laço de seda"
+            "name_identified": "laco de seda",
+            "name_unidentified": "laco de seda"
         },
         "hat_plumed_cap": {
             "name_identified": "gorro emplumado",
             "name_unidentified": "gorro emplumado"
         },
         "hat_bycocket": {
-            "name_identified": "chapéu medieval",
-            "name_unidentified": "chapéu medieval"
+            "name_identified": "chapeu medieval",
+            "name_unidentified": "chapeu medieval"
         },
         "hat_tophat": {
             "name_identified": "cartola",
@@ -1186,8 +1186,8 @@
             "name_unidentified": "capacete coroado"
         },
         "hat_warm": {
-            "name_identified": "chapéu quente",
-            "name_unidentified": "chapéu quente"
+            "name_identified": "chapeu quente",
+            "name_unidentified": "chapeu quente"
         },
         "hat_wolf_hood": {
             "name_identified": "capuz de lobo",
@@ -1206,35 +1206,35 @@
             "name_unidentified": "capuz de coelho"
         },
         "hat_bountyhunter": {
-            "name_identified": "chapéu do caçador de recompensas",
-            "name_unidentified": "chapéu do caçador de recompensas"
+            "name_identified": "chapeu do cacador de recompensas",
+            "name_unidentified": "chapeu do cacador de recompensas"
         },
         "hat_miter": {
             "name_identified": "mitra sacerdotal",
             "name_unidentified": "mitra sacerdotal"
         },
         "hat_headdress": {
-            "name_identified": "adereço de mago",
-            "name_unidentified": "adereço de mago"
+            "name_identified": "adereco de mago",
+            "name_unidentified": "adereco de mago"
         },
         "hat_chef": {
             "name_identified": "toque de chef",
             "name_unidentified": "toque de chef"
         },
         "helm_mining": {
-            "name_identified": "capacete de mineração",
-            "name_unidentified": "capacete de mineração"
+            "name_identified": "capacete de mineracão",
+            "name_unidentified": "capacete de mineracão"
         },
         "mask_steel_visor": {
-            "name_identified": "viseira de aço",
-            "name_unidentified": "viseira de aço"
+            "name_identified": "viseira de aco",
+            "name_unidentified": "viseira de aco"
         },
         "mask_crystal_visor": {
             "name_identified": "viseira de cristal",
             "name_unidentified": "viseira de cristal"
         },
         "mask_artifact_visor": {
-            "name_identified": "Véu da Valquíria",
+            "name_identified": "Veu da Valquiria",
             "name_unidentified": "viseira de artefato"
         },
         "hat_circlet_wisdom": {
@@ -1256,10 +1256,10 @@
     },
     "spell_names": {
         "spell_forcebolt": {
-            "name": "Projétil de Força"
+            "name": "Projetil de Forca"
         },
         "spell_magicmissile": {
-            "name": "Míssil Mágico"
+            "name": "Missil Magico"
         },
         "spell_cold": {
             "name": "Frio"
@@ -1271,7 +1271,7 @@
             "name": "Raio"
         },
         "spell_removecurse": {
-            "name": "Remover Maldição"
+            "name": "Remover Maldicão"
         },
         "spell_light": {
             "name": "Luz"
@@ -1280,7 +1280,7 @@
             "name": "Identificar"
         },
         "spell_magicmapping": {
-            "name": "Mapeamento Mágico"
+            "name": "Mapeamento Magico"
         },
         "spell_sleep": {
             "name": "Sono"
@@ -1298,7 +1298,7 @@
             "name": "Trancamento"
         },
         "spell_levitation": {
-            "name": "Levitação"
+            "name": "Levitacão"
         },
         "spell_invisibility": {
             "name": "Invisibilidade"
@@ -1334,7 +1334,7 @@
             "name": "Refletir Magia"
         },
         "spell_acid_spray": {
-            "name": "Spray Ácido"
+            "name": "Spray Acido"
         },
         "spell_steal_weapon": {
             "name": "Roubar Arma"
@@ -1343,7 +1343,7 @@
             "name": "Drenar Alma"
         },
         "spell_vampiric_aura": {
-            "name": "Aura Vampírica"
+            "name": "Aura Vampirica"
         },
         "spell_charm": {
             "name": "Encantar Monstro"
@@ -1355,7 +1355,7 @@
             "name": "Forma de Rato"
         },
         "spell_spider_form": {
-            "name": "Forma de Artrópode"
+            "name": "Forma de Artropode"
         },
         "spell_troll_form": {
             "name": "Forma de Troll"
@@ -1394,7 +1394,7 @@
             "name": "Teleporte de Outro"
         },
         "spell_demon_illu": {
-            "name": "Demônio Interior"
+            "name": "Demonio Interior"
         },
         "spell_trolls_blood": {
             "name": "Sangue de Troll"
@@ -1412,13 +1412,13 @@
             "name": "Polimorfia"
         },
         "spell_crab_form": {
-            "name": "Forma de Artrópode"
+            "name": "Forma de Artropode"
         },
         "spell_crab_web": {
             "name": "Spray de Teia"
         },
         "spell_ghost_bolt": {
-            "name": "Projétil Fantasma"
+            "name": "Projetil Fantasma"
         }
     }
 }
