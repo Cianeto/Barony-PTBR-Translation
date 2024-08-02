@@ -1,5 +1,9 @@
 # Tradução PT-BR para o joguinho Barony
 
+## Importante
+
+Projeto em desenvolvimento. Ainda estou traduzindo outras pastas, mas acredito que eu já tenha terminado a tradução da pasta "lang"
+
 ## Overview
 
 Não encontrei uma tradução do joguinho então fiz eu mesmo, se divirtam.
@@ -10,7 +14,7 @@ O jogo usa uma fonte específica para seus textos, fonte esta que não possui ac
 
 ## Guia
 
-O jogo pega todos seus textos da pasta "lang" dentro da pasta do jogo.
+O jogo pega alguns de seus textos da pasta "lang" dentro da pasta do jogo.
 
 ![img-da-pasta-lang](resources/image.png)
 
