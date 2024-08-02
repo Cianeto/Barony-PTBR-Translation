@@ -1,12 +1,9 @@
-# traducao pt-br feita por GBMELOVERSE, https://github.com/Cianeto
-# all entries must contain a string number, followed by a space, followed by a string, ended by a pound character
-# lines beginning with pound character are a comment
-# blank lines are ignored
-
+#traducao pt-br feita por GBMELOVERSE, https://github.com/Cianeto
+#all entries must contain a string number, followed by a space, followed by a string, ended by a pound character
+#lines beginning with pound character are a comment
+#blank lines are ignored
 1 null#
-
-# class names
-
+#class names
 1900 barbaro#
 1901 guerreiro#
 1902 curandeiro#
@@ -17,10 +14,7 @@
 1907 mago#
 1908 arcanista#
 1909 coringa#
-
-
-# class descriptions
-
+#class descriptions
 10 DEPRECATED#
 11 DEPRECATED#
 12 DEPRECATED#
@@ -31,10 +25,7 @@
 17 DEPRECATED#
 18 DEPRECATED#
 19 DEPRECATED#
-
-
-# appearance names
-
+#appearance names
 20 landguard#
 21 northborn#
 22 firebrand#
@@ -53,10 +44,7 @@
 35 nighthill#
 36 baytower#
 37 whetsong#
-
-
-# appearance descriptions
-
+#appearance descriptions
 38 DEPRECATED#
 39 DEPRECATED#
 40 DEPRECATED#
@@ -75,10 +63,7 @@
 53 DEPRECATED#
 54 DEPRECATED#
 55 DEPRECATED#
-
-
-# credit titles
-
+#credit titles
 56 DEPRECATED#
 57 DEPRECATED#
 58 DEPRECATED#
@@ -89,18 +74,12 @@
 63 DEPRECATED#
 64 DEPRECATED#
 65 DEPRECATED#
-
-
 #
-
 66 DEPRECATED#
 67 DEPRECATED#
 68 DEPRECATED#
 69 DEPRECATED#
-
-
-# baron herx subtitles
-
+#baron herx subtitles
 70 "Boa sorte, mortal."#
 71 "Tudo de bom, humano."#
 72 "Bem, boa sorte, humano."#
@@ -121,10 +100,7 @@
 87 "Enfrente-me se ousar, mortal. Voce nao sobrevivera."#
 88 "Encontre-me na minha caverna, mortal, e eu lhe mostrarei o significado da dor."#
 89 "Bem-vindo a sua perdicao, mortal!"#
-
-
-# monster names
-
+#monster names
 90 nada#
 91 humano#
 92 rato#
@@ -146,10 +122,7 @@
 108 minotauro#
 109 diabo#
 110 lojista#
-
-
-# monster names (plural)
-
+#monster names (plural)
 111 nada#
 112 humanos#
 113 ratos#
@@ -171,10 +144,7 @@
 129 minotauros#
 130 diabos#
 131 lojistas#
-
-
-# injury types
-
+#injury types
 132 acerta#
 133 acerta#
 134 morde#
@@ -196,19 +166,13 @@
 150 soca voce#
 151 soca voce#
 152 acerta#
-
-
-# server flags
-
+#server flags
 153 Cheats#
 154 Friendly Fire#
 155 Minotauros#
 156 Fome#
 157 Traps#
-
-
-# shopkeeper names
-
+#shopkeeper names
 158 Adrian#
 159 Bob#
 160 Carmack#
@@ -235,10 +199,7 @@
 181 Xavier#
 182 Yoshi#
 183 Zeb#
-
-
-# shop names
-
+#shop names
 184 Armas & Armaduras#
 185 Loja de Chapeus#
 186 Joalheria#
@@ -249,143 +210,93 @@
 191 Loja de Ferragens#
 192 Artigos de Caca#
 193 Loja de Variedades#
-
-
-# shopkeeper lines
-
+#shopkeeper lines
 194 Saudacoes!#
 195 Ola!#
 196 Bom dia!#
-
-
-# shopkeeper sells item at an unfair price
-
+#shopkeeper sells item at an unfair price
 197 Recebeste um bom preco por isso!#
 198 Excelente escolha!#
 199 Isso foi uma verdadeira pechincha!#
-
-
-# shopkeeper sells item at a fair price
-
+#shopkeeper sells item at a fair price
 200 Isso e uma troca justa.#
 201 Suponho que posso me desfazer disso.#
 202 Tudo bem, mas nao por um centavo a menos!#
-
-
-# shopkeeper refuses a purchase
-
+#shopkeeper refuses a purchase
 203 Sem dinheiro, sem item!#
 204 Nao venderei isso por nada menos.#
 205 Tu nao tens dinheiro suficiente!#
-
-
-# shopkeeper buys item at an unfair price
-
+#shopkeeper buys item at an unfair price
 206 Eu comprarei isso com prazer!#
 207 Eu comprarei isso de ti!#
 208 Eu comprarei isso!#
-
-
-# shopkeeper buys item at a fair price
-
+#shopkeeper buys item at a fair price
 209 Suponho que vou comprar isso.#
 210 Eu trocarei isso contigo.#
 211 Eu comprarei isso de ti.#
-
-
-# shopkeeper refuses to buy an item
-
+#shopkeeper refuses to buy an item
 212 Eu nao negocio isso.#
 213 Eu nao estou interessado nisso.#
 214 Nao! Eu nao quero isso.#
-
-
-# shopkeeper makes an offer to buy an item
-
+#shopkeeper makes an offer to buy an item
 215 Eu compraria isso por %dG.
-
 Trocar? (Clique direito no
 inventario)#
-
-
-# shopkeeper chit-chat
-
+#shopkeeper chit-chat
 216 Dizem que aneis de conflito
 criam uma aura de discordia
-ao redor de uma pessoa.# 
-
+ao redor de uma pessoa.#
 217 Oleo de lampada? Corda? Bombas? 
 Queres isso? E teu, meu amigo,
 desde que tenhas rubis suficientes!#
-
 218 Dizem que alguns itens sao
 encantados com efeitos
-magicos especiais.# 
-
+magicos especiais.#
 219 Slimes podem ser encontrados em duas
-cores. Dizem que os azuis sao mais fortes.# 
-
+cores. Dizem que os azuis sao mais fortes.#
 220 Dizem que itens amaldicoados muitas
 vezes fazem o oposto do que
-deveriam fazer.# 
-
+deveriam fazer.#
 221 Trolls te ignoram se mantiveres
-distancia!# 
-
+distancia!#
 222 Armas tem diferentes niveis
 de eficacia. Madeira
 e bronze sao fracos, mas
-aco e muito forte.# 
-
+aco e muito forte.#
 223 Os efeitos das pocoes
-desaparecem com o tempo.# 
-
+desaparecem com o tempo.#
 224 Cuidado com livros ilustrados.
 Conheci uma pessoa que tocou
 um e, de repente, estava
-sozinha em uma pequena ilha.# 
-
+sozinha em uma pequena ilha.#
 225 Tuas habilidades melhorarao a
-medida que as usares.# 
-
+medida que as usares.#
 226 Goblins sao bons
 catadores. Nao deixes
 itens poderosos onde eles
-possam encontra-los!# 
-
+possam encontra-los!#
 227 Posso parecer fraco, mas sou
 na verdade um mestre das
-artes misticas.# 
-
+artes misticas.#
 228 Comida enlatada pode deixar tuas
 maos engorduradas. Use uma toalha para
-manter-se limpo.# 
-
+manter-se limpo.#
 229 Podes atar feridas com
-toalhas.# 
-
+toalhas.#
 230 Estas com fome? Carne de rato
-e um alimento basico aqui embaixo.# 
-
+e um alimento basico aqui embaixo.#
 231 Picadas de escorpiao podem te paralisar.
-Cuidado com elas.# 
-
+Cuidado com elas.#
 232 Dizem que Sucubos gostam
-de tentar roubar as roupas das pessoas.# 
-
+de tentar roubar as roupas das pessoas.#
 233 Quanto mais velha a comida, mais
 provavel e que ela te faca mal
-quando comida.# 
-
+quando comida.#
 234 Espelhos podem fazer coisas estranhas as
-vezes.# 
-
+vezes.#
 235 Tente identificar itens antes
 de usa-los.#
-
-
-# skill names
-
+#skill names
 236 Mecanica#
 237 Furtividade#
 238 Comercio#
@@ -400,17 +311,11 @@ de usa-los.#
 247 Machado#
 248 Arma de Haste#
 249 Escudo#
-
-
 #
-
 250 DEPRECATED#
 251 DEPRECATED#
 252 DEPRECATED#
-
-
-# Left-click (entity spotting) messages
-
+#Left-click (entity spotting) messages
 253 Voce ve um(a) %s chamado(a) %s.#
 254 Voce ve um(a) %s.#
 255 Voce ve uma tocha montada na parede.#
@@ -432,10 +337,7 @@ de usa-los.#
 272 Voce ve um portal misterioso.#
 273 Voce ve uma cadeira.#
 274 Voce ve uma mesa.#
-
-
-# console command messages
-
+#console command messages
 275 Apenas o servidor pode modificar as flags do servidor.#
 276 Flags do servidor atualizadas.#
 277 Trapacas estao desativadas neste servidor.#
@@ -468,16 +370,10 @@ de usa-los.#
 303 Nao ha espaco aqui para um(a) %s!#
 304 Erro! Nao foi possivel gerar '%s'#
 305 Comando nao reconhecido: '%s'#
-
-
-# status bar
-
+#status bar
 306 DEPRECATED#
 307 DEPRECATED#
-
-
-# items and inventory
-
+#items and inventory
 308 DEPRECATED#
 309 DEPRECATED#
 310 DEPRECATED#
@@ -522,10 +418,7 @@ de usa-los.#
 347 Este %s
  ja esta sem maldicao.#
 348 Sem maldicao "%s".#
-
-
-# shop gui - removed category names
-
+#shop gui - removed category names
 349 #
 350 #
 351 #
@@ -537,10 +430,7 @@ de usa-los.#
 357 #
 358 Bem-vindo a %s
 %s!#
-
-
-# character sheet
-
+#character sheet
 359 DEPRECATED#
 360 DEPRECATED#
 361 DEPRECATED#
@@ -550,10 +440,7 @@ de usa-los.#
 1203 DEPRECATED#
 1204 DEPRECATED#
 1205 DEPRECATED#
-
-
-# skill levels
-
+#skill levels
 363                Nenhum#
 364                Novato#
 365                Basico#
@@ -561,23 +448,14 @@ de usa-los.#
 367                Perito#
 368                Mestre#
 369                 Lenda#
-
-
-# rest of the character sheet
-
+#rest of the character sheet
 370 DEPRECATED#
 371 DEPRECATED#
 372 DEPRECATED#
-
-
-# chest inventory
-
+#chest inventory
 373 DEPRECATED#
 374 Pegou %s do bau.#
-
-
-# magic
-
+#magic
 375 Mana insuficiente!#
 376 Voce e atingido por um feitico!#
 377 Seu feitico atinge %s!#
@@ -649,10 +527,7 @@ de usa-los.#
 443 Voce se sente melhor.#
 444 Sua forca vital vacila por um momento.#
 445 Voce sente sua forca vital diminuir!#
-
-
-# arrows
-
+#arrows
 446 Voce atirou no(a) %s!#
 447 Mas ele(a) nem se mexeu!#
 448 Voce atirou em %s!#
@@ -661,10 +536,7 @@ de usa-los.#
 451 Voce e atingido(a) por uma flecha!#
 452 Mas ela ricocheteou na sua armadura!#
 453 A flecha te envenena!#
-
-
-# traps and furniture
-
+#traps and furniture
 454 Voce esta preso(a) em uma armadilha de urso!#
 455 Voce e atingido(a) por uma pedra!#
 456 Voce nao tem forca para mover a pedra.#
@@ -689,85 +561,52 @@ de usa-los.#
 475 Este portao e aberto em outro lugar.#
 476 Nao e hora de sentar.#
 477 Voce bate na mesa em frustracao.#
-
-
-# Easter egg messages
-
+#Easter egg messages
 478 Isso seria util em outro tipo de jogo.#
 479 Voce sente vontade de minerar e criar, mas logo passa.#
 480 Esta ferramenta estranha nao pertence a este mundo.#
 481 Voce nao esta criando algo, entao nao precisa disso.#
 482 Mentes menores pensam que isso pertence ao nosso universo.#
-
-
-# Gold
-
+#Gold
 483 Pegou uma peca de ouro.#
 484 Pegou %d pecas de ouro.#
-
-
-# headstone messages
-
+#headstone messages
 485 "Aqui jaz Johnny Yeast
   Desculpe por nao me levantar"#
-
 486 "Aqui jaz minha esposa
   Aqui deixe-a deitar!
   Agora ela esta em paz e eu tambem."#
-
 487 "Aqui jaz o corpo de Blake
   Acelerou em vez de frear"#
-
 488 "Aqui jaz Weird Ed
   Recebeu seu pacote, mas agora esta morto"#
-
 489 "Descanse em Paz"#
-
 490 "R.I.P."#
-
 491 "Sum quod eris"#
-
 492 "Do cais mergulhou Sir Jim
   Entao descobriu que nao sabia nadar"#
-
 493 "Aqui jaz Mary Poppins
   Um buraco em seu guarda-chuva foi sua ruina"#
-
 494 "Aqui jaz Horace P. Fetch
   Os goblins finalmente o pegaram"#
-
 495 "Aqui jaz Julian
   Foi espancado por seu troll de estimacao"#
-
 496 "Aqui jaz Ingrid
   Assustada por um esqueleto assustador"#
-
 497 "Aqui jaz Sir Robin
   Ele corajosamente fugiu"#
-
 498 "Aqui jaz Tom
   Perdeu um jogo de Roleta Russa"#
-
 499 "Aqui jaz Mitch
   Encontrou seu fim por um lich"#
-
 500 "Aqui jaz The Proto Pegasus
   Tinha uma batata presa no tubo de escape"#
-
 501 Esta lapide esta em branco.#
-
 502 Voce perturbou os mortos!#
-
-
-# item messages
-
+#item messages
 503 Este %s pode destrancar objetos.#
-
 504 Pegou %s.#
-
-
-# ladder and portal messages
-
+#ladder and portal messages
 505 Voce deve reunir seu grupo para seguir em frente.#
 506 Voce desce a escada.#
 507 Voce e seu grupo descem a escada.#
@@ -775,16 +614,10 @@ de usa-los.#
 509 %s esta na saida.#
 510 Voce atravessa o portal.#
 511 Voce e seu grupo atravessam o portal.#
-
-
-# herx darkness line
-
+#herx darkness line
 512 Voce ouve uma voz dentro da sua cabeca...
 "Voce pode quebrar esta tecnica secreta de escuridao?"#
-
-
-# monster chat
-
+#monster chat
 513 O %s diz:#
 514 O %s nao responde.#
 515 %s nao responde.#
@@ -809,9 +642,7 @@ de usa-los.#
 534 *grunhido*#
 535 Com licenca, %s.#
 536 Desculpe, %s. Eu sigo outro.#
-
-# sharur lines
-
+#sharur lines
 537 Voce ouve uma voz dentro da sua cabeca...#
 538 "Voce sabia?"
 "Voce pode ouvir um ar maligno soprando das armadilhas."
@@ -909,9 +740,7 @@ de usa-los.#
 569 "Voce sabia?"
 "Nao ha colher."
 "E verdade!"#
-
-# random player messages
-
+#random player messages
 570 Identificou "%s".#
 571 Falhou em identificar "%s".#
 572 Voce cai para a sua morte...#
@@ -924,9 +753,7 @@ de usa-los.#
 Voce sera revivido se seu grupo
 sobreviver ate o proximo nivel.#
 579 *hic*#
-
-# more furniture
-
+#more furniture
 580 A pia nao esta mais utilizavel.
 Voce deveria chamar um encanador!#
 581 Ei, ha um anel preso no ralo.#
@@ -938,9 +765,7 @@ A torneira quebra!#
 586 Voce tropeca em uma armadilha de espinhos!#
 588 Voce e atingido por um(a) %s voador(a)!#
 589 Voce pega a tocha da parede.#
-
-# entity messages
-
+#entity messages
 590 Voce de repente pega fogo!#
 591 Seu feitico (invisibilidade) foi interrompido!#
 592 Seu feitico (levitacao) foi interrompido!#
@@ -1006,14 +831,9 @@ A torneira quebra!#
 648 Seu amuleto esta te sufocando!#
 649 Seu amuleto se contrai!#
 650 Mas que sorte! Ele acabou de se quebrar.#
-
-# the extra period here is important, make sure to leave it:
-
+#the extra period here is important, make sure to leave it:
 651 Voce morre....#
-
-
-# more entity messages
-
+#more entity messages
 652 Mas espere! Seu amuleto esta brilhando!#
 653 Mas espere! Seu amuleto esta quente!#
 654 Voce e trazido de volta a vida e comeca a flutuar pelo ar!#
@@ -1071,10 +891,7 @@ A torneira quebra!#
 706 Esta parede e muito dura para quebrar.#
 707 Voce sente uma sensacao de solavanco, mas passa.#
 708 Voce se sente desorientado por um momento.#
-
-
-# general game messages
-
+#general game messages
 709 Carregando...#
 710 Bem-vindo ao nivel %d da masmorra.#
 711 Bem-vindo a %s.#
@@ -1091,21 +908,20 @@ A torneira quebra!#
 722 %s se despede de voce!#
 723 Seu %s se despede de voce!#
 724 Conexao do servidor com o cliente %d (%s) recuperada.
- Auto-expulsao cancelada.# 
+ Auto-expulsao cancelada.#
 725 Cliente %d (%s) nao esta respondendo ao servidor.
  Auto-expulsao em %d segundos...#
 726 Conexao do servidor com o cliente %d (%s) perdida.
- Expulsando do jogo.# 
+ Expulsando do jogo.#
 727 Voce nao tem espaco sobrando na sua mochila para um
  %s!#
 728 Conexao com o servidor recuperada.
- Auto desconexao cancelada.# 
+ Auto desconexao cancelada.#
 729 Servidor nao esta respondendo.
  Auto desconexao em %d segundos...#
 730 Conexao com o servidor perdida.
- Desconectando.# 
+ Desconectando.#
 731 Conexao com o servidor perdida.
-
 Pressione 'Ok' para retornar ao menu principal.#
 732 Ok#
 733 Personagem Aleatorio#
@@ -1114,17 +930,12 @@ Pressione 'Ok' para retornar ao menu principal.#
 736 DEPRECATED#
 737 DEPRECATED#
 738 Please do not pirate this game!
-
 Our work lives and dies by the support of
 players like you.
-
 Thank you!#
 739 Voce diz: #
 740 Voce morreu#
-
-
-# init messages
-
+#init messages
 741 Carregando sprites...#
 742 Carregando modelos...#
 743 Carregando tiles...#
@@ -1134,10 +945,7 @@ Thank you!#
 747 Carregando itens...#
 748 Carregando musica...#
 749 Carregando interface...#
-
-
-# item usage messages
-
+#item usage messages
 750 Voce nao pode beber isso. Voce esta engasgando!#
 751 Voce ainda esta vomitando sua ultima refeicao!#
 752 Isso tem gosto de agua.#
@@ -1165,127 +973,82 @@ Thank you!#
 773 Voce se sente melhor.#
 774 Voce sente energia arcana fluindo em voce.#
 775 Voce nao pode ler o pergaminho enquanto esta cego.#
-
-
-# mail
-
+#mail
 776 Esta e uma carta:
  "Aqui e o Moe. Eu gosto de voce, Maggie...
   tanto que... eu quero...
   comer voce... no jantar."#
-
 780 Esta e uma carta:
  "Ajude-me.
   Estou esperando por voce dentro#
 781   da barriga do Lord Jabu Jabu.
     --Ruto.
   PS: Nao conte ao meu pai!"#
-
 786 Esta e uma carta:
  "Dobre a quantidade de cobre extraida das
   minas. Os gnomos pagarao extra por qualquer coisa acima
   da quantidade padrao."#
-
 790 Esta e uma carta:
-
  "Dobre, dobre, trabalho e problema;
   Fogo queima, e caldeirao borbulha."#
-
 793 Este e apenas um anuncio:
-
  "%s's %s tem
   os melhores itens de todo o reino!"#
-
 796 Esta e uma nota rabiscada antiga:
-
  "Eu estou aqui no escuro agora,
   esperando pela morte."#
-
 799 Esta e uma nota rabiscada antiga:
-
  "O Dopefish vive!"#
-
 801 Esta e uma nota rabiscada antiga:
  "Mee pior troll de todos
   ninguem paga pedagio#
 802   eu nao sou assustador o suficiente
   eu fico bebado e me mato
   troll afogado"#
-
 807 Esta e uma carta:
  "Nossa exploracao do Bastiao do Diabo falhou
   apos um encontro prolongado com os
   habitantes da masmorra."#
-
 811 Esta e uma nota manuscrita:
  "Dez passos a nordeste do mastro principal;#
 812   27 passos para baixo ate o porao;
   E cinco passos para a direita;
   E cave no local marcado com 'X'"#
-
 816 Esta e uma carta:
-
  "Um cavalo, um cavalo! Meu reino por um cavalo!"#
-
 817 Esta e uma nota manuscrita:
-
  "Tudo bem pessoal, vamos la!"#
-
 818 Esta e uma carta:
  "E tradicao falar com o 'nos' real,
   e usar ESTE VOLUME QUANDO FALAMOS COM NOSSOS
   SUJEITOS!!!"#
-
 822 Esta e uma carta:
-
  "nadar nadar com fome"#
-
 824 Esta e uma nota manuscrita:
-
  "Ha punhais nos sorrisos dos homens."#
-
 826 Esta e uma nota manuscrita:
-
  "E um segredo para todos."#
-
 828 Esta e uma nota manuscrita:
-
  "ATRAS DE VOCE!"#
-
 830 Esta e uma carta:
  "De todas as palavras de ratos e homens,
   As mais tristes sao,
   'Poderia ter sido.'"#
-
 834 Esta e uma nota manchada de sangue:
-
  "Sim, Avatar, procure um caminho para casa!"#
-
 836 Esta carta esta coberta de migalhas:
-
  "Ferva-os, amasse-os, coloque-os em um ensopado!"#
-
 838 Esta e uma nota manuscrita:
-
  "Dizem que a vida e desperdicada nos vivos."#
-
 840 Esta e uma nota rabiscada:
-
  "Esses donuts sao otimos! Os recheados com geleia sao meus
   favoritos! Nada supera um donut recheado com geleia."#
-
 843 Esta e uma nota rabiscada:
-
  "Ei, eu sei! Vou usar minha confiavel frigideira...
   como uma secadora!"#
-
 846 Esta e uma carta:
-
  "Por favor, desconsidere a carta anterior."#
-
-
-# scrolls
-
+#scrolls
 848 Ao ler o pergaminho, ele desaparece.#
 849 Este e um pergaminho de identificacao!#
 850 Mas voce nao tem itens nao identificados...#
@@ -1321,10 +1084,7 @@ Thank you!#
 880  "Eu servirei voce, mestre."#
 881 Voce invoca alguns %s amigaveis!#
 882  "Nos serviremos voce, mestre."#
-
-
-# more items
-
+#more items
 883 Voce se limpa com a toalha.#
 884 Voce amarra a toalha ao redor do seu ferimento.#
 885 Voce para de sangrar.#
@@ -1340,7 +1100,7 @@ Thank you!#
 893 Voce nao ve ninguem no espelho.#
 894 'ei, garoto! *hic*#
 895 'ei, garota! *hic*#
-896 Quem e ESTE?# 
+896 Quem e ESTE?#
 897 Voce esta palido!#
 898 Voce parece bastante enjoado.#
 899 Tem coisas por todo o seu rosto!#
@@ -1363,10 +1123,7 @@ Thank you!#
 915 Oof. Voce esta realmente cheio agora.#
 916 Voce se sente mal por comer demais.#
 917 URP! Comida demais!#
-
-
-# tinned food
-
+#tinned food
 918 pure#
 919 cristalizado#
 920 salteado#
@@ -1416,10 +1173,7 @@ Thank you!#
 964  com aipo#
 965  com espinafre#
 966 A gordura deixa seus dedos escorregadios.#
-
-
-# yet more items
-
+#yet more items
 967 Voce de repente se sente bastante masculino!#
 968 Voce de repente se sente bastante feminino!#
 969 O amuleto se desintegra!#
@@ -1427,10 +1181,7 @@ Thank you!#
 971 O livro de feiticos de repente se desintegra em cinzas!#
 972 Voce esquece um dos seus feiticos!#
 973 Voce se sente um pouco confuso por um momento.#
-
-
-# potion colors
-
+#potion colors
 974 azul#
 975 amarelo#
 976 marrom#
@@ -1439,10 +1190,7 @@ Thank you!#
 979 verde#
 980 roxo#
 981 branco#
-
-
-# item quality strings
-
+#item quality strings
 982 um %+2d quebrado #
 983 um %+2d decrepito #
 984 um %+2d gasto #
@@ -1548,10 +1296,7 @@ Thank you!#
 1084 %d fresco #
 1085 %ss rotulado %s#
 1086 %d copias de "%s" #
-
-
-# more item messages
-
+#more item messages
 1087 Voce nao pode. Esta amaldicoado!#
 1088 Largou %s.#
 1089 Voce nao pode remover o %s. Esta amaldicoado!#
@@ -1562,10 +1307,7 @@ Thank you!#
 1094 Voce colocou o amuleto.#
 1095 O amuleto de repente se contrai!#
 1096 "Oi! Eu sou Sharur, a maca falante!"#
-
-
-# lockpicks and keys
-
+#lockpicks and keys
 1097 Voce destrancou o bau.#
 1098 Voce trancou o bau.#
 1099 Voce destrancou a porta.#
@@ -1577,10 +1319,7 @@ Thank you!#
 1105 Este bau ja esta destrancado.#
 1106 Voce falhou em destrancar a porta.#
 1107 Esta porta ja esta destrancada.#
-
-
-# random stuff
-
+#random stuff
 1108 As cavernas estao cheias de uma escuridao sobrenatural.#
 1109 Voce sobrevive atraves da persistencia do seu grupo.#
 1110 Voce puxa a alavanca.#
@@ -1605,16 +1344,12 @@ Thank you!#
 1124 Voce nao pode vender o %s.
  Esta amaldicoado!#
 1125 Voce vendeu %s por %dG.#
-
-# some window and button text
-
+#some window and button text
 1126
 O servidor remoto foi desligado.
-
 Pressione 'Ok' para retornar ao menu principal.#
 1127
 Voce foi expulso do servidor do jogo.
-
 Pressione 'Ok' para retornar ao menu principal.#
 1128
      Voce tem certeza que
@@ -1622,7 +1357,6 @@ Pressione 'Ok' para retornar ao menu principal.#
 1129
             Voce tem certeza que
          deseja terminar este jogo?
-
        Como voce pereceu, seu
        arquivo de salvamento sera deletado.#
 1130
@@ -1631,24 +1365,18 @@ Pressione 'Ok' para retornar ao menu principal.#
 1131
          Voce tem certeza que deseja
           sair para a area de trabalho?
-
      O progresso foi salvo no inicio
        do nivel atual.#
 1132 Solicitando lista de lobbies...#
 1133 Voce morreu. Fim de jogo.
-
 #
 1134 Seu equipamento foi identificado.
 #
 1135 Pontuacao total: #
 1136 Parabens!
 Voce entrou no placar de pontuacoes.
-
 #
 1137
-
-
-
 #
 1138     Reiniciar Jogo   #
 1139 Retornar ao Menu Principal#
@@ -1656,17 +1384,13 @@ Voce entrou no placar de pontuacoes.
 #
 1141 Voce sera revivido, no entanto, se seu
 grupo sobreviver ate o proximo nivel.
-
 #
 1142 Como o resto do seu grupo pereceu,
 o host deve criar um novo jogo ou reiniciar o
 atual para continuar.#
 1143 Pontuacao total: #
 1144    Okay   #
-
-
-# death tips
-
+#death tips
 1145
 Cuidado com todos os itens nao identificados. Eles podem
 causar dano em vez de ajudar voce.#
@@ -1706,20 +1430,14 @@ distancia? CORRA!#
 Pocoes podem ser jogadas em inimigos com efeitos variados.#
 1159
 Seja inventivo. Todo item tem sua utilidade.#
-
-
-# more random text
-
+#more random text
 1160  esbarra em voce.#
 1161 Avaliar#
 1162 Largar#
 1300 Voce desarma a armadilha para ursos.#
 1301 Voce interrompe a conjuracao do feitico!#
 1302 %s diz:#
-
-
-# main menu
-
+#main menu
 1303 DEPRECATED#
 1304 DEPRECATED#
 1305 DEPRECATED#
@@ -1731,14 +1449,11 @@ Seja inventivo. Todo item tem sua utilidade.#
 1311 DEPRECATED#
 1312 DEPRECATED#
 1313 DEPRECATED#
-
 1314 Sim#
 1315 Nao#
 1316 DEPRECATED#
 1317 DEPRECATED#
-
-# character creation
-
+#character creation
 1318 DEPRECATED#
 1319 DEPRECATED#
 1320 DEPRECATED#
@@ -1755,16 +1470,12 @@ Seja inventivo. Todo item tem sua utilidade.#
 1331 DEPRECATED#
 1332 DEPRECATED#
 1333 DEPRECATED#
-
-# lobby browser
-
+#lobby browser
 1334 DEPRECATED#
 1335 DEPRECATED#
 1336 DEPRECATED#
 1337 DEPRECATED#
-
-# settings window
-
+#settings window
 1338 DEPRECATED#
 1339 DEPRECATED#
 1340 DEPRECATED#
@@ -1775,10 +1486,8 @@ Seja inventivo. Todo item tem sua utilidade.#
 1345 DEPRECATED#
 1346 DEPRECATED#
 1347 DEPRECATED#
-
 1348 DEPRECATED#
 1349 DEPRECATED#
-
 1350 DEPRECATED#
 1351 DEPRECATED#
 1352 DEPRECATED#
@@ -1794,11 +1503,9 @@ Seja inventivo. Todo item tem sua utilidade.#
 1362 DEPRECATED#
 1363 DEPRECATED#
 1364 DEPRECATED#
-
 1365 DEPRECATED#
 1366 DEPRECATED#
 1367 DEPRECATED#
-
 1368 DEPRECATED#
 1369 DEPRECATED#
 1370 DEPRECATED#
@@ -1806,14 +1513,10 @@ Seja inventivo. Todo item tem sua utilidade.#
 1372 DEPRECATED#
 1373 DEPRECATED#
 1374 DEPRECATED#
-
-
-# multiplayer windows
-
+#multiplayer windows
 1375 DEPRECATED#
 1376 DEPRECATED#
 1377 DEPRECATED#
-
 1378 O servidor ja esta cheio.#
 1379 Incompatibilidade de versao do jogo.#
 1380 O lobby nao requer um arquivo de salvamento.#
@@ -1822,15 +1525,11 @@ Arquivo de salvamento compativel nao encontrado.#
 1382 Arquivos de salvamento nao correspondem.#
 1383 Arquivos de salvamento nao correspondem.#
 1384 Resposta ruim do servidor.#
-
 1385 DEPRECATED#
 1386 DEPRECATED#
 1387 DEPRECATED#
 1388 DEPRECATED#
-
-
-# highscore window
-
+#highscore window
 1389 DEPRECATED#
 1390 DEPRECATED#
 1391 DEPRECATED#
@@ -1856,10 +1555,7 @@ Arquivo de salvamento compativel nao encontrado.#
 1411 DEPRECATED#
 1412 DEPRECATED#
 1413 DEPRECATED#
-
-
-# text crawl sequences
-
+#text crawl sequences
 1414 DEPRECATED#
 1415 DEPRECATED#
 1416 DEPRECATED#
@@ -1879,9 +1575,7 @@ Arquivo de salvamento compativel nao encontrado.#
 1430 DEPRECATED#
 1431 DEPRECATED#
 1432 DEPRECATED#
-
-# even more button and window text
-
+#even more button and window text
 1433 DEPRECATED#
 1434 DEPRECATED#
 1435 DEPRECATED#
@@ -1917,9 +1611,7 @@ Arquivo de salvamento compativel nao encontrado.#
 1465 DEPRECATED#
 1466 DEPRECATED#
 1467 DEPRECATED#
-
-# obituary messages
-
+#obituary messages
 1499 %s's %s aliado %s#
 1500 morre do nada.#
 1501 foi atingido por uma torre magica.#
@@ -1957,9 +1649,7 @@ Arquivo de salvamento compativel nao encontrado.#
 1533 queimou ate ficar crocante.#
 1534 foi sufocado ate a morte.#
 1535 bebeu a pocao comica e morreu.#
-
-# some random strings
-
+#some random strings
 1536 DEPRECATED#
 1537 DEPRECATED#
 1538 DEPRECATED#
@@ -1969,9 +1659,7 @@ Arquivo de salvamento compativel nao encontrado.#
 1542 DEPRECATED#
 1543 DEPRECATED#
 1544 DEPRECATED#
-
-# item names
-
+#item names
 1545 DEPRECATED_ITEM_NAME#
 1546 DEPRECATED_ITEM_NAME#
 1547 DEPRECATED_ITEM_NAME#
@@ -2308,12 +1996,9 @@ Arquivo de salvamento compativel nao encontrado.#
 1878 DEPRECATED_ITEM_NAME#
 1879 DEPRECATED_ITEM_NAME#
 1880 DEPRECATED_ITEM_NAME#
-
 1882 DEPRECATED#
 1883 DEPRECATED#
-
-# menu subtitles
-
+#menu subtitles
 1910 DEPRECATED#
 1911 DEPRECATED#
 1912 DEPRECATED#
@@ -2344,25 +2029,19 @@ Arquivo de salvamento compativel nao encontrado.#
 1937 DEPRECATED#
 1938 DEPRECATED#
 1939 DEPRECATED#
-
-# extra keybindings :)
-
+#extra keybindings :)
 1940 DEPRECATED#
 1941 DEPRECATED#
-
-# game/server flags tooltips
-
-# Cheats.
+#game/server flags tooltips
+#Cheats.
 1942 DEPRECATED#
 1943 DEPRECATED#
 1944 DEPRECATED#
 1945 DEPRECATED#
 1946 DEPRECATED#
-
-# Gamepad settings menu stuff.
+#Gamepad settings menu stuff.
 1947 DEPRECATED#
-
-# Bifunctional bindings.
+#Bifunctional bindings.
 1948 DEPRECATED#
 1949 DEPRECATED#
 1950 DEPRECATED#
@@ -2370,8 +2049,7 @@ Arquivo de salvamento compativel nao encontrado.#
 1952 DEPRECATED#
 1953 DEPRECATED#
 1954 DEPRECATED#
-
-# Menu exclusive bindings.
+#Menu exclusive bindings.
 1955 DEPRECATED#
 1956 DEPRECATED#
 1957 DEPRECATED#
@@ -2391,8 +2069,7 @@ Arquivo de salvamento compativel nao encontrado.#
 1971 DEPRECATED#
 1972 DEPRECATED#
 1973 DEPRECATED#
-
-# Game exclusive bindings.
+#Game exclusive bindings.
 1974 DEPRECATED#
 1975 DEPRECATED#
 1976 DEPRECATED#
@@ -2405,27 +2082,21 @@ Arquivo de salvamento compativel nao encontrado.#
 1983 DEPRECATED#
 1984 DEPRECATED#
 1985 DEPRECATED#
-
-# Other bindings.
+#Other bindings.
 1986 DEPRECATED#
 1987 DEPRECATED#
 1988 DEPRECATED#
 1989 DEPRECATED#
 1990 DEPRECATED#
 1991 DEPRECATED#
-
-# More stuff on the gamepad bindings screen.
+#More stuff on the gamepad bindings screen.
 1994 DEPRECATED#
 1995 DEPRECATED#
 1996 DEPRECATED#
-
-
 1997 DEPRECATED#
 1998 DEPRECATED#
-
-# START DLC
-# monsters, reserve 2000-2049 for monster names, 2050 - 2099 for plurals, 2100-2150 for injury types
-
+#START DLC
+#monsters, reserve 2000-2049 for monster names, 2050 - 2099 for plurals, 2100-2150 for injury types
 2000 kobold#
 2001 escaravelho#
 2002 golem de cristal#
@@ -2442,9 +2113,7 @@ Arquivo de salvamento compativel nao encontrado.#
 2013 magibot#
 2014 gyrobot#
 2015 dummybot#
-
-# monster plurals
-
+#monster plurals
 2050 kobolds#
 2051 escaravelhos#
 2052 golems de cristal#
@@ -2461,9 +2130,7 @@ Arquivo de salvamento compativel nao encontrado.#
 2063 magibots#
 2064 gyrobots#
 2065 dummybots#
-
-# injury types (2100-2149)
-
+#injury types (2100-2149)
 2100 acerta#
 2101 morde#
 2102 golpeia#
@@ -2480,8 +2147,7 @@ Arquivo de salvamento compativel nao encontrado.#
 2113 acerta#
 2114 acerta#
 2115 acerta#
-
-# additional obituary messages (2150-2199)
+#additional obituary messages (2150-2199)
 2150 tornou-se vitima da violencia de faccoes kobolds.#
 2151 subestimou o poder de mastigacao das mandibulas de um escaravelho.#
 2152 ficou preso entre um golem de cristal e um lugar apertado.#
@@ -2499,8 +2165,7 @@ Arquivo de salvamento compativel nao encontrado.#
 2164 foi exterminado por um robo giroscopico.#
 2165 foi exterminado por um robo manequim.#
 2166 foi saqueado por um mimico.#
-
-# items, reserve (2200-2349) for new items
+#items, reserve (2200-2349) for new items
 2200 DEPRECATED_ITEM_NAME#
 2201 DEPRECATED_ITEM_NAME#
 2202 DEPRECATED_ITEM_NAME#
@@ -2651,7 +2316,6 @@ Arquivo de salvamento compativel nao encontrado.#
 2347 DEPRECATED_ITEM_NAME#
 2348 DEPRECATED_ITEM_NAME#
 2349 DEPRECATED_ITEM_NAME#
-
 #Additional ingame text.
 2350 Um fragmento se desprendeu do seu %s.#
 2351 Seu %s se despedacou completamente!#
@@ -2687,7 +2351,6 @@ Arquivo de salvamento compativel nao encontrado.#
 2381 Uma forca invisivel arrasta seus pes para o chao!#
 2382 O ar aqui parece estar girando suavemente ao seu redor.#
 2383 Um formigamento percorre seu corpo e atraves de cada um de seus passos.#
-
 #Equip Effects
 2384 Voce se sente confiante sobre si mesmo.#
 2385 Voce se sente calmo.#
@@ -2695,7 +2358,6 @@ Arquivo de salvamento compativel nao encontrado.#
 2387 Voce sente sua consciencia se expandindo ao seu redor.#
 2388 Voce sente uma onda de energia em seus bracos.#
 2389 Voce se sente forte!#
-
 #New spells (2390-2399)
 2390 DEPRECATED_SPELL_NAME#
 2391 DEPRECATED_SPELL_NAME#
@@ -2707,25 +2369,19 @@ Arquivo de salvamento compativel nao encontrado.#
 2397 DEPRECATED_SPELL_NAME#
 2398 DEPRECATED_SPELL_NAME#
 2399 DEPRECATED_SPELL_NAME#
-
 2400 DEPRECATED#
-
 2401 DEPRECATED#
 2402 DEPRECATED#
 2403 DEPRECATED#
 2404 DEPRECATED#
 2405 DEPRECATED#
 2406 DEPRECATED#
-
 2407 DEPRECATED#
 2408 DEPRECATED#
 2409 DEPRECATED#
 2410 DEPRECATED#
-
 2411 DEPRECATED#
-
 #Equip Effects
-
 2412 Seu corpo desaparece diante dos seus olhos!#
 2413 Voce se sente estranho por todo o corpo.#
 2414 Voce e dominado pela paranoia.#
@@ -2734,7 +2390,6 @@ Arquivo de salvamento compativel nao encontrado.#
 2417 O anel puxa suavemente seu dedo.#
 2418 Estas botas parecem leves.#
 2419 Seu calcado o empurra para longe do chao!#
-
 #New spell effects (2420-2440)
 2420 %s esta paralisado!#
 2421 O %s esta paralisado!#
@@ -2767,7 +2422,6 @@ Arquivo de salvamento compativel nao encontrado.#
 2448 DEPRECATED#
 2449 Sua sede de sangue se acalma...#
 2450 A habilidade artesanal das paredes aqui e impecavel.#
-
 #New effects (contd.)
 2451 Voce esta sangrando muito!#
 2452 O %s esta sangrando muito!#
@@ -2797,8 +2451,7 @@ Arquivo de salvamento compativel nao encontrado.#
 2476 Voce sente o feitico de refletir magia falhar enquanto o
 resto da sua magia e drenada!#
 2477 Voce esta imbuido com poder vampirico!#
-
-# Equip effects
+#Equip effects
 2478 Voce sente um grande proposito.#
 2479 O ar ao seu redor cheira fresco e doce.#
 2480 Seu corpo inteiro formiga levemente.#
@@ -2814,17 +2467,14 @@ resto da sua magia e drenada!#
 2490 Voce sente sua pele endurecer levemente.#
 2491 Voce sente um formigamento subindo pelos seus ombros.#
 2492 O amuleto parece frio contra seu pescoco.#
-
-# More misc text.
+#More misc text.
 2493 This is no time for sleep.#
 2494 Dibs on the top bunk.#
 2495 Dibs on the bottom bunk.#
 2496 This is no time for lecturing.#
 2497 You see a bed.#
-
 #More character creation screen stuff.
 2498 Nome Aleatorio#
-
 2499 Voce ve uma beliche.#
 2500 Voce ve um podio.#
 2501 Voce ve um conjunto de pistoes.#
@@ -2842,8 +2492,7 @@ resto da sua magia e drenada!#
 2513 Voce perfura a armadura do %s!#
 2514 Voce perfura a armadura de %s!#
 2515 O tiro perfura sua armadura!#
-
-## 2516 - 2528 More effect messages
+##2516 - 2528 More effect messages
 2516 Voce sente como se uma parte da sua essencia fosse apreendida!#
 2517 Voce sente como se um fragmento da sua essencia fosse tomado!#
 2518 Voce sente algo puxar sua essencia e se aproximar...#
@@ -2857,8 +2506,7 @@ resto da sua magia e drenada!#
 2526 Uma engrenagem travada dentro do %s se solta!#
 2527 As engrenagens do %s travam e comecam a ranger e soltar faiscas!#
 2528 Seu %s nao tem efeito agora.#
-
-# 2529- 2542 atk hover text
+#2529- 2542 atk hover text
 2529 punhos: #
 2530 a distancia: #
 2531 arremessado: #
@@ -2873,8 +2521,7 @@ resto da sua magia e drenada!#
 2540 ferramenta:  #
 2541 cajado: #
 2542 Dano:%11d ATQ#
-
-# 2543 - 2549 attacking text, misc
+#2543 - 2549 attacking text, misc
 2543 Seu golpe pega o %s desprevenido!#
 2544 Seu golpe pega %s desprevenido!#
 2545 Seu golpe flanqueia as defesas do %s!#
@@ -2882,8 +2529,7 @@ resto da sua magia e drenada!#
 2547 Voce assassina o %s!#
 2548 Voce assassina %s!#
 2549 DEPRECATED#
-
-# 2550 - 2560 new class names
+#2550 - 2560 new class names
 2550 sacristao#
 2551 ninja#
 2552 monge#
@@ -2894,7 +2540,7 @@ resto da sua magia e drenada!#
 2557 blank#
 2558 blank#
 2559 blank#
-# 2560 - 2570 new class descriptions
+#2560 - 2570 new class descriptions
 2560 DEPRECATED#
 2561 DEPRECATED#
 2562 DEPRECATED#
@@ -2905,8 +2551,7 @@ resto da sua magia e drenada!#
 2567 DEPRECATED#
 2568 DEPRECATED#
 2569 DEPRECATED#
-
-# More misc.
+#More misc.
 2570 DEPRECATED#
 2571 DEPRECATED#
 2572 DEPRECATED#
@@ -2922,7 +2567,6 @@ resto da sua magia e drenada!#
 2582 DEPRECATED#
 2583 DEPRECATED#
 2584 DEPRECATED#
-
 2585 DEPRECATED#
 2586 DEPRECATED#
 2587 DEPRECATED#
@@ -2930,7 +2574,6 @@ resto da sua magia e drenada!#
 2589 Seu aliado %s %s#
 2590 DEPRECATED#
 2591 Voce nao tem mais nada a aprender com este feitico.#
-
 2592 A fonte abencoa um equipamento.#
 2593 Voce nao tem ouro!#
 2594 Derrubou %d pecas de ouro.#
@@ -2939,7 +2582,6 @@ resto da sua magia e drenada!#
 2597 Voce sente sua mente se desprendendo do seu corpo mortal.#
 2598 DEPRECATED#
 2599 Voce se sente revigorado!#
-
 2600 DEPRECATED#
 2601 DEPRECATED#
 2602 DEPRECATED#
@@ -2954,74 +2596,55 @@ resto da sua magia e drenada!#
 2612 DEPRECATED#
 2613 DEPRECATED#
 2614 DEPRECATED#
-
-# Orpheus and Erudyce chatter.
+#Orpheus and Erudyce chatter.
 2615 "Irmao, sinto que alguem chegou. Vamos cumprimenta-los?"#
 2616 "Nao, estamos ocupados demais para formalidades."#
-
 2617 "Irma, voce convidou companhia?"#
 2618 "Nao, a Guilda os enviou."#
 2619 "Hm."#
-
 2620 "Irma, a entrada da Caverna ainda esta selada, nao esta?"#
 2621 "Esta. Por que pergunta?"#
 2622 "Deixa pra la. Nao e nada."#
-
 2623 "O Minotauro e necessario, Irmao?"#
 2624 "Nao, irma, mas eu gosto do espetaculo."#
-
 2625 "Voce acha, Irma, que eles vao fugir do Minotauro?"#
 2626 "Nao me importo, Irmao. Envie-o de qualquer maneira."#
-
 2627 "Este Minotauro esta deprimido desde que Herx morreu."#
 2628 "Mande-o embora se isso te incomoda tanto, Irma."#
-
-# Caves chatter.
+#Caves chatter.
 2629 "Irmao, alguem esta atravessando as Cavernas."#
 2630 "Voce esta preocupada?"#
 2631 "Mmm. Nao."#
-
 2632 "Os Kobolds nos garantiram melhores resultados nas Cavernas."#
 2633 "Nao se preocupe, irmao. Ainda ha um longo caminho a percorrer, eles ainda podem entregar."#
-
 2634 "Irmao, admito, gostaria que eles se apressassem."#
 2635 "Isso tornaria as coisas mais simples, nao e?"#
-
-# Caves transition.
+#Caves transition.
 2636 "Herx nao conseguiu lidar com o poder que encontrou. Tentamos avisa-lo."#
 2637 "Sua morte era inevitavel."#
 2652 "Nossos convidados nao convidados nao passam de plebeus."#
-
-# Citadel chatter.
+#Citadel chatter.
 2638 "Isso esta tudo errado. Criamos este lugar para imortais."#
 2639 "Imortais e seus servos, Irma."#
 2653 "Deixe-os vir."#
-
 2640 "Quanto tempo mais devo esperar?"#
 2641 "Cuide dos seus afazeres, irmao. Nao ha muito o que preparar."#
-
 2642 "Voce estava certo em excluir o resto da guilda dos nossos planos aqui, Irmao."#
 2643 "Mentes pequenas sempre tem ambicoes pequenas."#
-
-# Endgame.
+#Endgame.
 2644 "Nosso acesso ao poder so aumentou desde que voce removeu Herx."#
 2645 "Permita-nos agradecer por nos entregar o Baronato dele."#
-
-# Orpheus death.
+#Orpheus death.
 2646 "Impossivel!!!"#
 2647 "Peste, usarei sua alma para desfazer essa ofensa!"#
-
-# Erudyce death.
+#Erudyce death.
 2648 "Maldicao!!!"#
 2649 "Grande erro, cretino. Hora de sofrer."#
-
-# Orpheus giggles.
+#Orpheus giggles.
 2650 "Ah ha ha ha ha ha haah!!"#
-# Erudyce giggles.
+#Erudyce giggles.
 2651 "Ah ha ha ha ha ha ha hah haah!"#
-
-
-# NPC Chatter. Groups of 10 lines for each NPC type
+#NPC Chatter. Groups of 10 lines for each NPC type
 2700 type:seq#
 2701 O %s
  Voce e realmente um festeiro, %s. Eu nao consegui acompanhar voce!#
@@ -3033,19 +2656,16 @@ resto da sua magia e drenada!#
  Voce vai pegar leve agora, certo %s?#
 2705 O %s
  ...#
-
 2710 type:rand#
 2711 O %s
  Todos voltaram para suas lojas, como se nada tivesse acontecido.#
 2712 O %s
  Os lojistas de Hamlet estao mais resistentes depois de sobreviverem a masmorra do Barao.#
-
 2720 type:rand#
 2721 O %s
  Como eu poderia te agradecer, %s? *hic!*#
 2722 O %s
  Eu te amo, cara. Tipo, serio, %s, eu te amo. *hic!*#
-
 2730 type:seq#
 2731 %s
  E um segredo para todos.#
@@ -3059,7 +2679,6 @@ resto da sua magia e drenada!#
  E um segredo para todos.#
 2736 %s
  ...#
-
 2740 type:seq#
 2741 O %s
  Tentei entrar nas Cavernas de Cristal, mas uma barreira me impediu.#
@@ -3077,7 +2696,6 @@ resto da sua magia e drenada!#
  Sem rancores, so nao seja um cara mau!#
 2748 O %s
  ...#
-
 2750 type:rand#
 2751 O %s
  E estranho que eu esteja tentado a voltar para a mina?#
@@ -3087,7 +2705,6 @@ resto da sua magia e drenada!#
  As minas, a masmorra de Herx, estao do outro lado deste portao.#
 2754 O %s
  Talvez eu volte so por um tempinho.#
-
 2760 type:seq#
 2761 O %s
  A Guilda dos Magos deve estar tramando algo.#
@@ -3107,7 +2724,6 @@ resto da sua magia e drenada!#
  A Igreja e uma Guilda? Perguntando para um amigo.#
 2769 O %s
  ...#
-
 2770 type:seq#
 2771 O %s
  Bem-vindo de volta, %s. Espero que tenha descansado.#
@@ -3127,7 +2743,6 @@ resto da sua magia e drenada!#
  Eu queria ter visto a cara de Herx quando voce apareceu...#
 2779 O %s
  ...#
-
 2780 type:seq#
 2781 O %s
  O Barao queria estabelecer a mina nas Cavernas de Cristal.#
@@ -3143,7 +2758,6 @@ resto da sua magia e drenada!#
  As coisas deram errado, mas poderiam ter sido piores.#
 2787 O %s
  ...#
-
 2790 type:seq#
 2791 O %s
  Merlin nos contou sobre a magia perigosa que Herx encontrou.#
@@ -3157,7 +2771,6 @@ resto da sua magia e drenada!#
  Algumas pessoas simplesmente precisam de sua independencia. Eu respeito isso.#
 2796 O %s
  ...#
-
 2800 type:seq#
 2801 O %s
  Depois que Herx foi trancado, os Arquimagos foram para as Cavernas de Cristal.#
@@ -3171,7 +2784,6 @@ resto da sua magia e drenada!#
  Acho que Erudyce e Orpheus sabiam que selar Herx nao seria suficiente.#
 2806 O %s
  ...#
-
 2810 type:seq#
 2811 O %s
  Monstros poderosos comecaram a vir das Cavernas de Cristal.#
@@ -3187,7 +2799,6 @@ resto da sua magia e drenada!#
  Erudyce gosta de influenciar as coisas nos bastidores.#
 2817 O %s
  ...#
-
 2820 type:seq#
 2821 O %s
  Eu senti o poder do orbe quando voce o colocou naquele pedestal.#
@@ -3203,7 +2814,6 @@ resto da sua magia e drenada!#
  Eles devem ter aprendido algo sobre o poder que Herx encontrou.#
 2827 O %s
  ...#
-
 2830 type:seq#
 2831 %s
  Nao se preocupe %s, eu sei quem voce e.#
@@ -3225,14 +2835,11 @@ resto da sua magia e drenada!#
  Deixe-os comigo e nao falaremos mais sobre nosso pequeno encontro.#
 2839 %s
  ...#
-
 2850 type:rand#
 2851 %s Resposta 1.#
-
 2860 type:rand#
 2861 %s Resposta 1.#
-
-# 2900 - 2949 More effects text:
+#2900 - 2949 More effects text:
 2900 Bleh, esta pocao estava amaldicoada!#
 2901 Voce se sente mais pesado...#
 2902 Voce se sente mais lento...#
@@ -3245,15 +2852,13 @@ resto da sua magia e drenada!#
 2909 O santuario concede precisao e rapidez!#
 2910 O santuario concede conhecimento arcano e resistencia!#
 2911 DEPRECATED#
-
-# 2912-2916 Autosort text:
+#2912-2916 Autosort text:
 2912 DEPRECATED#
 2913 DEPRECATED#
 2914 DEPRECATED#
 2915 DEPRECATED#
 2916 DEPRECATED#
-
-# New server flags.
+#New server flags.
 2917 DEPRECATED#
 2918 DEPRECATED#
 2919 DEPRECATED#
@@ -3262,8 +2867,7 @@ resto da sua magia e drenada!#
 2922 DEPRECATED#
 2923 DEPRECATED#
 2924 DEPRECATED#
-
-# 2925 - 2957 New conducts.
+#2925 - 2957 New conducts.
 2925 DEPRECATED#
 2926 DEPRECATED#
 2927 DEPRECATED#
@@ -3276,7 +2880,6 @@ resto da sua magia e drenada!#
 2934 DEPRECATED#
 2935 DEPRECATED#
 2936 DEPRECATED#
-
 2958 DEPRECATED#
 2959 DEPRECATED#
 2960 DEPRECATED#
@@ -3355,7 +2958,6 @@ resto da sua magia e drenada!#
 3033 DEPRECATED#
 3034 DEPRECATED#
 3010 caiu para a morte.#
-
 3036 DEPRECATED#
 3037 DEPRECATED#
 3038 DEPRECATED#
@@ -3389,8 +2991,7 @@ resto da sua magia e drenada!#
 3066 DEPRECATED#
 3067 DEPRECATED#
 3068 DEPRECATED#
-
-# Follower responses.
+#Follower responses.
 3069 Vou ficar aqui, %s.#
 3070 Vou esperar aqui.#
 3071 Minha %s esta amaldicoada!#
@@ -3417,9 +3018,8 @@ resto da sua magia e drenada!#
 3092 Voce so pode usar este comando uma vez por andar.#
 3093 Mexer com #
 3094 Nenhuma interacao disponivel.#
-# Follower responses end.
-
-# Misc
+#Follower responses end.
+#Misc
 3095 DEPRECATED#
 3096 Seu feitico atinge o %s!#
 3097 porta#
@@ -3428,8 +3028,7 @@ resto da sua magia e drenada!#
 3100 Uma protecao arcana mantem a fechadura firmemente no lugar!#
 3101 Uma protecao arcana mantem a porta firmemente no lugar!#
 3102 Uma protecao arcana mantem o portao firmemente no lugar!#
-
-# Follower responses cont'd.
+#Follower responses cont'd.
 3103 DEPRECATED#
 3104 DEPRECATED#
 3105 O %s espera pacientemente.#
@@ -3463,8 +3062,7 @@ resto da sua magia e drenada!#
 3133 Ha algo no caminho do %s.#
 3134 Ha algo no caminho de %s.#
 3135 Desculpe %s, mas nao vou me desfazer das minhas lembrancas.#
-
-# Misc
+#Misc
 3136 DEPRECATED#
 3137 O %s e encantado para o seu servico!#
 3138 %s e encantado para o seu servico!#
@@ -3475,7 +3073,6 @@ resto da sua magia e drenada!#
 3143 Seu encanto nao teve efeito em %s!#
 3144 Um encanto magico toma sua vontade de lutar!#
 3145 O slime envolve e consome o %s!#
-
 3146 DEPRECATED#
 3147 DEPRECATED#
 3148 DEPRECATED#
@@ -3500,12 +3097,10 @@ resto da sua magia e drenada!#
 3167 DEPRECATED#
 3168 DEPRECATED#
 3169 DEPRECATED#
-
 3175 DEPRECATED#
 3176 DEPRECATED#
 3177 DEPRECATED#
 3178 DEPRECATED#
-
 3179 Esqueletos nao tem uso para comida!#
 3180 Mas espere! Voce gasta sua mana em uma nova vida!#
 3181 Voce nao tinha mana suficiente para se reviver...#
@@ -3527,10 +3122,8 @@ resto da sua magia e drenada!#
    alma#
 3197 Seu %s invocado ganhou um novo nivel!#
 3198 Mas espere! Seus aliados invocados imbuem voce com uma nova vida!#
-
 3199 DEPRECATED#
 3200 DEPRECATED#
-
 3201 Bleh! Seu corpo rejeita os solidos em seu estomago!#
 3202 Que noite horrivel para ter uma maldicao...#
 3203 Blecch! Isso e nojento!#
@@ -3557,7 +3150,6 @@ resto da sua magia e drenada!#
 3221 Voce acorda sem ideia de onde esta...
  acompanhado por uma dor de cabeca terrivel.#
 3222 Talvez uma bebida alivie um pouco...#
-
 3223 conjurador#
 3224 amaldicoado#
 3225 mesmer#
@@ -3566,7 +3158,6 @@ resto da sua magia e drenada!#
 3228 punidor#
 3229 xama#
 3230 cacador#
-
 3231 DEPRECATED#
 3232 DEPRECATED#
 3233 DEPRECATED#
@@ -3575,7 +3166,6 @@ resto da sua magia e drenada!#
 3236 DEPRECATED#
 3237 DEPRECATED#
 3238 DEPRECATED#
-
 3239 Numero de habilidade invalido!#
 3240 Sua avaliacao nao e alta o suficiente para identificar
  "%s".#
@@ -3593,8 +3183,7 @@ resto da sua magia e drenada!#
 3252 O %s decide ser seu colega alcoolatra!#
 3253 Sua saude se deteriora devido a maldicao!#
 3254 foi nadar em algum lugar.#
-
-# Skill tooltips
+#Skill tooltips
 3255 DEPRECATED#
 3256 DEPRECATED#
 3257 DEPRECATED#
@@ -3610,8 +3199,7 @@ resto da sua magia e drenada!#
 3267 DEPRECATED#
 3268 DEPRECATED#
 3269 DEPRECATED#
-
-# Additional skill tooltip text
+#Additional skill tooltip text
 3270 DEPRECATED#
 3271 DEPRECATED#
 3272 DEPRECATED#
@@ -3627,7 +3215,6 @@ resto da sua magia e drenada!#
 3282 DEPRECATED#
 3283 DEPRECATED#
 3284 DEPRECATED#
-
 3285 A brigada ZAP chegou!
  "O minotauro esta vindo! Permita-nos matar quaisquer outras feras imundas aqui tambem!"#
 3286 #
@@ -3702,7 +3289,6 @@ resto da sua magia e drenada!#
 3354 Voce de repente se sente muito mais forte!#
 3355 Sua forca volta ao normal.#
 3356 A mistura se dissolve em agua...#
-
 3357 DEPRECATED#
 3358 Voce se sente energizado?#
 3359 DEPRECATED#
@@ -3717,13 +3303,11 @@ resto da sua magia e drenada!#
 3368 DEPRECATED#
 3369 DEPRECATED#
 3370 DEPRECATED#
-
 3371 DEPRECATED#
 3372 DEPRECATED#
 3373 DEPRECATED#
 3374 DEPRECATED#
 3375 DEPRECATED#
-
 3376 DEPRECATED#
 3377 DEPRECATED#
 3378 DEPRECATED#
@@ -3732,7 +3316,6 @@ resto da sua magia e drenada!#
 3381 DEPRECATED#
 3382 DEPRECATED#
 3383 DEPRECATED#
-
 3384 DEPRECATED#
 3385 DEPRECATED#
 3386 DEPRECATED#
@@ -3749,7 +3332,6 @@ resto da sua magia e drenada!#
 3397 DEPRECATED#
 3398 DEPRECATED#
 3399 DEPRECATED#
-
 3400 Gastar sua vitalidade enfraqueceu o feitico!#
 3401 Voce sente os deuses de Sokoban auxiliando sua jornada...#
 3402 DEPRECATED#
@@ -3757,7 +3339,6 @@ resto da sua magia e drenada!#
 3404 DEPRECATED#
 3405 DEPRECATED#
 3406 DEPRECATED#
-
 3407 DEPRECATED_SPELL_NAME#
 3408 DEPRECATED_SPELL_NAME#
 3409 DEPRECATED_SPELL_NAME#
@@ -3768,7 +3349,6 @@ resto da sua magia e drenada!#
 3414 DEPRECATED_SPELL_NAME#
 3415 DEPRECATED_SPELL_NAME#
 3416 DEPRECATED_SPELL_NAME#
-
 3417 Sua transformacao se desfaz e voce retorna a sua forma normal.#
 3418 DEPRECATED#
 3419 Voce se metamorfosea em um %s!#
@@ -3852,8 +3432,7 @@ resto da sua magia e drenada!#
 3497 Voce topa com uma %s!#
 3498 O %s topa com sua %s!#
 3499 %s topa com sua %s!#
-
-# new new items (3500-3599)
+#new new items (3500-3599)
 3500 DEPRECATED_ITEM_NAME#
 3501 DEPRECATED_ITEM_NAME#
 3502 DEPRECATED_ITEM_NAME#
@@ -3944,7 +3523,6 @@ resto da sua magia e drenada!#
 3587 DEPRECATED_ITEM_NAME#
 3588 DEPRECATED_ITEM_NAME#
 3589 DEPRECATED_ITEM_NAME#
-
 3600 Voce desarma a %s.#
 3601 A %s e levada embora!#
 3602 %s e levado embora!#
@@ -4119,42 +3697,33 @@ a inscricao!#
 3768 DEPRECATED#
 3769 Seu gerador de ruido precisa ser rebobinado!#
 3770 Seu gerador de ruido quebra!#
-
 3771 DEPRECATED#
 3772 DEPRECATED#
 3773 DEPRECATED#
 3774 DEPRECATED#
 3775 DEPRECATED#
-
 3776 DEPRECATED#
 3777 DEPRECATED#
 3778 DEPRECATED#
 3779 DEPRECATED#
 3780 DEPRECATED#
 3781 DEPRECATED#
-
 3782 DEPRECATED#
 3783 DEPRECATED#
 3784 DEPRECATED#
 3785 DEPRECATED#
 3786 DEPRECATED#
 3787 DEPRECATED#
-
 3788 DEPRECATED#
-
 3789 DEPRECATED#
-
 3790 DEPRECATED#
-
 3791 DEPRECATED#
-
 3792 DEPRECATED#
 3793 DEPRECATED#
 3794 DEPRECATED#
 3795 DEPRECATED#
 3796 DEPRECATED#
 3797 DEPRECATED#
-
 3798 DEPRECATED#
 3799 DEPRECATED#
 3800 DEPRECATED#
@@ -4166,11 +3735,9 @@ a inscricao!#
 3809 DEPRECATED#
 3810 DEPRECATED#
 3811 DEPRECATED#
-
 3812 DEPRECATED#
 3813 DEPRECATED#
 3814 DEPRECATED#
-
 3815 DEPRECATED#
 3816 DEPRECATED#
 3817 DEPRECATED#
@@ -4190,8 +3757,7 @@ a inscricao!#
 3831 DEPRECATED#
 3832 DEPRECATED#
 3833 DEPRECATED#
-
-# new spell tooltips
+#new spell tooltips
 3834 DEPRECATED#
 3835 DEPRECATED#
 3836 DEPRECATED#
@@ -4220,7 +3786,6 @@ a inscricao!#
 3859 DEPRECATED#
 3860 DEPRECATED#
 3861 DEPRECATED#
-
 3862 rotulado #
 3863 Voce nao pode ler o livro de feiticos enquanto esta cego!#
 3864 se suicida.#
@@ -4229,7 +3794,6 @@ a inscricao!#
 3867 O gyrobot comeca a apertar a mola de disparo...#
 3868 Seu gyrobot nao esta segurando nada para soltar.#
 3869 Voce consegue se segurar antes de cair!#
-
 3870 Esta armadilha ja foi desarmada.#
 3871 Sua gazua falha em desarmar a armadilha!#
 3872 Voce desarma a armadilha com sucesso!#
@@ -4264,8 +3828,7 @@ a inscricao!#
 3898 falha em desviar da bola de fogo que se aproxima.#
 3899 falha em desviar da bola arcana que se aproxima.#
 3900 Voce nao pode colocar isso ai!#
-
-# More keybinds
+#More keybinds
 3901 DEPRECATED#
 3902 DEPRECATED#
 3903 DEPRECATED#
@@ -4275,7 +3838,6 @@ a inscricao!#
 3907 DEPRECATED#
 3908 DEPRECATED#
 3909 DEPRECATED#
-
 3910 Remova tua vestimenta antes
 de negociarmos!#
 3911 Embainha tua arma antes
@@ -4300,7 +3862,6 @@ negociarmos!#
 3924 O arquivo de salvamento do jogador nao e elegivel para a Conquista Ranger. Reinicie o jogo para redefinir.#
 3925 Modo Ranger desativado para o cliente %d.#
 3926 Modo Ranger ativado para o cliente %d.#
-
 3927 Desbloqueie a conquista "Bony Baron" para desbloquear esta classe para todas as racas!#
 3928 Desbloqueie a conquista "Bucktooth Baron" para desbloquear esta classe para todas as racas!#
 3929 Desbloqueie a conquista "Bombshell Baron" para desbloquear esta classe para todas as racas!#
@@ -4372,7 +3933,7 @@ negociarmos!#
 3996 Voce nao tem itens que possam ser identificados!#
 3997 Voce nao tem espaco suficiente na sua mochila para desequipar um 
  %s!#
-# World UI Tooltips
+#World UI Tooltips
 3998 (Segurar) #
 3999 Sucatear item#
 4000 Pegar item#
@@ -4416,7 +3977,7 @@ negociarmos!#
 4038 Subir escada#
 4039 Desarmar #
 4040 Interagir#
-# Follower interact text
+#Follower interact text
 4041 Interagir com...#
 4042 Atacar...#
 4043 Atacar #
@@ -4442,10 +4003,10 @@ negociarmos!#
 4063 Rolar#
 4064 Instantaneo#
 4065 Qualquer#
-# Skillsheet - Casting MP Regen for insectoid
+#Skillsheet - Casting MP Regen for insectoid
 4066 N/A
 (Insetoide)#
-# Skillsheet - Casting MP Regen for automaton
+#Skillsheet - Casting MP Regen for automaton
 4067 N/A
 (Automato)#
 4068 Disfarcado#
@@ -4455,7 +4016,7 @@ negociarmos!#
 4072 REGISTRO#
 4073 Voce ve uma placa.#
 4074 Lista de Habilidades#
-# Action Prompts
+#Action Prompts
 4075 Atacar#
 4076 Defender#
 4077 Furtividade#
@@ -4473,8 +4034,7 @@ Lancar#
 4088 Voce encontrou %d pecas de ouro no bau!#
 4089 As garras do caranguejo sao venenosas!#
 4090 e despedacado pelas garras do caranguejo.#
-
-# Nav Prompts
+#Nav Prompts
 4091 Pegar Tudo#
 4092 Mover Cursor#
 4093 Ver Feiticos#
@@ -4504,9 +4064,7 @@ Lancar#
 4116 Itens#
 4117 Habilidades#
 4118 Status#
-
-# new shop GUI
-
+#new shop GUI
 4119 Seu ouro:#
 4120 Itens de Recompra#
 4121 Parar de Negociar#
@@ -4521,8 +4079,7 @@ formalidades comerciais, agora!#
 4127 de %s#
 4128 Bens Raros#
 4129 ???'s#
-
-# new tinkering
+#new tinkering
 4130 Custo de Criacao:#
 4131 Sucata em Maos:#
 4132 Isso deve ser desequipado primeiro#
@@ -4576,8 +4133,7 @@ formalidades comerciais, agora!#
 4180 Uso Descoberto!#
 4181 OBTIDO: %d/24#
 4182 Voce descobriu uma nova receita de alquimia para um %s.#
-
-# scribing
+#scribing
 4183 Custo de Carga:#
 4184 Escrever#
 4185 Inscrever este pergaminho#
@@ -4592,10 +4148,8 @@ formalidades comerciais, agora!#
 4194 Padrao#
 4195 Descoberto#
 4196 Desconhecido#
-
 4197 Voce colocou %d %s no bau.#
 4198 %3.0f%% Avaliando...#
-
 4199 Projetos#
 4200 Comando %s para...#
 4201 (Todos) #
@@ -4614,9 +4168,7 @@ formalidades comerciais, agora!#
 4214 copia de#
 4215 rotulado#
 4216 %s:#
-
-# NPC insults
-
+#NPC insults
 4217 amaldicoado#
 4218 terrivel#
 4219 plebeu#
@@ -4634,7 +4186,6 @@ formalidades comerciais, agora!#
 4231 vilanesco#
 4232 ilegal#
 4233 nefasto#
-
 4234 Maldito#
 4235 Medonho#
 4236 Plebeu#
@@ -4652,18 +4203,15 @@ formalidades comerciais, agora!#
 4248 Vilanesco#
 4249 Ilegal#
 4250 Nefasto#
-
 4251 Requer %d de habilidade em Comercio + estatistica de CAR#
-
-# shop try to buy hidden item
+#shop try to buy hidden item
 4252 Desculpe, eu nao vendo isso para 
 qualquer um.#
 4253 Isso esta reservado para outro
 comprador, minhas desculpas.#
 4254 Isso e apenas para meus clientes
 mais estimados.#
-
-# shop buy added consumables
+#shop buy added consumables
 4255 Meu estoque pessoal, so para
 voce.#
 4256 Eu nao deixo qualquer um comprar
@@ -4674,12 +4222,9 @@ estoque limitado.#
 inventario especial.#
 4259 Eu guardo isso para meus
 clientes favoritos.#
-
 4260 %d ouro#
 4261 ???#
-
-# NPC greetings
-
+#NPC greetings
 4262 Nunca mais.#
 4263 Ola, %s.#
 4264 Piu!#
@@ -4717,7 +4262,6 @@ clientes favoritos.#
 4296 *assobio*#
 4297 *tilintar*#
 4298 *boing*#
-
 4299 Tocar santuario#
 4300 Seu toque cai sobre a pedra inerte.#
 4301 O santuario responde ao seu toque!#
@@ -4788,9 +4332,7 @@ por ser cumplice de violencia!#
 4364 pedestal#
 4365 fogueira#
 4366 objeto#
-
-# New main menu strings (5000)
-
+#New main menu strings (5000)
 5000 Voltar#
 5001 Gostaria de navegar por este
 DLC na Nintendo eShop?#
@@ -4814,43 +4356,39 @@ foi desbloqueado!#
 foi desbloqueado!#
 5017 Chave de licenca invalida#
 5020 Conectando
-.# 
+.#
 5021 Conectando
-..# 
+..#
 5022 Conectando
-...# 
+...#
 5023 Conectando
-....# 
+....#
 5024 Conectando
-.....# 
-5025 Aguardando o host...# 
-5026 Pular historia# 
-5027 Confirmar (1)# 
-5028 Confirmar (2)# 
+.....#
+5025 Aguardando o host...#
+5026 Pular historia#
+5027 Confirmar (1)#
+5028 Confirmar (2)#
 5029 Tem certeza de que deseja
-descartar as alteracoes?# 
+descartar as alteracoes?#
 5030 Sim,
-Descartar# 
-
-5031 COMPORTAMENTO AUTOMATICO DO INVENTARIO# 
-5032 Ordem de Auto-Organizacao# 
-
+Descartar#
+5031 COMPORTAMENTO AUTOMATICO DO INVENTARIO#
+5032 Ordem de Auto-Organizacao#
 5033 Restaurar
-Padroes# 
+Padroes#
 5034 Descartar
-& Sair# 
+& Sair#
 5035 Confirmar
-& Sair# 
-
-5036 Exibir %d# 
-5037 Janela# 
-5038 Com Borda# 
-5039 Sem Borda# 
-5040 Tela Cheia# 
-5041 Vinculacao "%s" excluida.# 
-5042 Desligado          Ligado# 
+& Sair#
+5036 Exibir %d#
+5037 Janela#
+5038 Com Borda#
+5039 Sem Borda#
+5040 Tela Cheia#
+5041 Vinculacao "%s" excluida.#
+5042 Desligado          Ligado#
 5043 Personalizar#
-
 5044 MINIMAPA#
 5045 Escala#
 5046 Escala do mapa#
@@ -4862,7 +4400,6 @@ Padroes#
 5052 Defina a opacidade do primeiro plano do minimapa.#
 5053 Opacidade do fundo#
 5054 Defina a opacidade do fundo do minimapa.#
-
 5055 MENSAGENS#
 5056 Categorias#
 5057 Mensagens de combate#
@@ -4887,11 +4424,9 @@ Padroes#
 5076 Ativar dicas criptograficas para certos itens, eventos do mundo, etc.#
 5077 Mensagens de obituario#
 5078 Ativar mensagens de obituario para mortes de jogadores.#
-
 5079 Teclado & Mouse#
 5080 Gamepad#
 5081 Joystick#
-
 5082 VINCULACOES#
 5083 Vinculacoes#
 5084 Vincule um botao a %s,
@@ -4906,9 +4441,7 @@ A proxima entrada que voce ativar sera vinculada a esta acao.#
 5089 Vinculacao de "%s" cancelada#
 5090 Vinculacao de "%s" excluida.#
 5091 "%s" vinculado novamente#
-
-# Crosshair types
-
+#Crosshair types
 5092 Dot#
 5093 Dot (Grande)#
 5094 Plus (Pequeno)#
@@ -4921,13 +4454,10 @@ A proxima entrada que voce ativar sera vinculada a esta acao.#
 5101 Dots (4x)#
 5102 :)#
 5103 @#
-
-# More new menu stuff
-
+#More new menu stuff
 5104 Opcoes Gerais#
 5105 Reinicio Instantaneo ao Perder#
 5106 Reinicia automaticamente o jogo rapidamente apos morrer.#
-
 5107 Opcoes de Inventario#
 5108 Adicionar Itens a Barra de Atalhos#
 5109 Preencher automaticamente a barra de atalhos com itens recentemente coletados.#
@@ -4935,7 +4465,6 @@ A proxima entrada que voce ativar sera vinculada a esta acao.#
 5111 Personalize a forma como os itens sao automaticamente organizados no seu inventario.#
 5112 Usar ao Soltar#
 5113 Ativar um item assim que a tecla de Uso for solta na janela do inventario.#
-
 5114 Opcoes de HUD#
 5115 Escala do HUD#
 5116 Ajuste o tamanho da interface para maior ou menor. (Valores recomendados: 50%, 75% ou 100%)#
@@ -4959,7 +4488,6 @@ A proxima entrada que voce ativar sera vinculada a esta acao.#
 5134 Personalize quais mensagens serao registradas para o jogador, se houver alguma.#
 5135 Mostrar Nomes dos Jogadores#
 5136 Exibir o nome de cada personagem jogador acima de seu avatar.#
-
 5137 Acessibilidade#
 5138 Controle de Conteudo#
 5139 Desativar a aparencia de sangue e outros tipos de conteudo explicito no jogo#
@@ -4978,7 +4506,6 @@ A proxima entrada que voce ativar sera vinculada a esta acao.#
 5152 Alternar para mudar as saidas da masmorra, exigindo um longo pressionamento da tecla "Usar".#
 5153 Mostrar HUD#
 5154 Alternar a exibicao de barras de saude e outros status no jogo quando o inventario esta fechado.#
-
 5155 Modo de Exibicao#
 5156 Resolucao#
 5157 Alterar a resolucao atual da janela.#
@@ -5006,7 +4533,6 @@ A proxima entrada que voce ativar sera vinculada a esta acao.#
 5179 Tela Dividida Deslocada#
 5180 Para tela dividida com dois jogadores: deslocar cada viewport para que cada um fique em um canto da tela.#
 5181 Automatico#
-
 5182 Saida#
 5183 Dispositivo#
 5184 O dispositivo de saida para todo o audio do jogo.#
@@ -5030,7 +4556,6 @@ A proxima entrada que voce ativar sera vinculada a esta acao.#
 5202 Alternar a chance de emitir murmurios monstruosos ao jogar com um personagem nao humano.#
 5203 Audio Fora de Foco#
 5204 Ativar fontes de audio mesmo quando a janela do jogo esta fora de foco.#
-
 5205 Layout#
 5206 - NAO VINCULADO -#
 5207 Vinculacoes#
@@ -5067,7 +4592,6 @@ A proxima entrada que voce ativar sera vinculada a esta acao.#
 5238 Ative para inverter os controles de olhar para a esquerda/direita da camera do jogador.#
 5239 Inverter Olhar da Camera Y#
 5240 Ative para inverter os controles de olhar para cima/baixo da camera do jogador.#
-
 5241 Geral#
 5242 Modo Streamer#
 5243 Se voce e um streamer e sabe o que e doxxing, definitivamente ative isso.#
@@ -5077,7 +4601,6 @@ A proxima entrada que voce ativar sera vinculada a esta acao.#
 5247 Crossplay#
 5248 Crossplay Ativado#
 5249 Ativar crossplay atraves dos Servicos Online da Epic.#
-
 5250 Configuracoes do Jogo#
 5251 Fome#
 5252 Quando a fome esta desativada, a regeneracao passiva de HP e desativada e comer comida cura o jogador diretamente.#
@@ -5097,7 +4620,6 @@ A proxima entrada que voce ativar sera vinculada a esta acao.#
 5266 Comece o jogo com um Amuleto de Salva-vidas, para prevenir uma morte.#
 5267 Trapacas#
 5268 Alternar a capacidade de ativar codigos de trapaca durante o jogo.#
-
 5269 PONTUACOES#
 5270 CLASSIFICACOES#
 5271 Aqui jaz
@@ -5120,11 +4642,10 @@ o Barao!#
 o Barao!#
 5277 XP:
 Ouro:
-Nivel da Masmorra:# 
-5278 Abates:# 
+Nivel da Masmorra:#
+5278 Abates:#
 5279 Tempo:
 Pontuacao:#
-
 5280 Desafios Voluntarios:#
 5281 Nenhum#
 5282 Voce trapaceou.#
@@ -5171,7 +4692,6 @@ De Todos os Tempos#
 5316 Por favor, selecione uma pontuacao
 para excluir primeiro#
 5317 Ok#
-
 5318 CONQUISTAS#
 5319 Conquistas desbloqueadas %d / %d (%d%%)#
 5320 Complete desafios opcionais no jogo
@@ -5183,7 +4703,6 @@ por diversao e direito de se gabar#
 5325 Desbloqueado %s#
 5326 Desbloqueado#
 5327 Bloqueado#
-
 5328 Messages#
 5329 Chat#
 5330 Enter message here...#
@@ -5197,27 +4716,22 @@ by the host.#
 5337 You have been kicked
 from the lobby.#
 5338 Joining lobby...
-
 %ds#
 5339 Entrando no lobby...
-
 %ds.#
 5340 Entrando no lobby...
-
 %ds..#
 5341 Entrando no lobby...
-
 %ds...#
 5342 Falha ao conectar ao lobby.#
 5343 Falha ao entrar no lobby.
-Crossplay necessario.# 
+Crossplay necessario.#
 5344 Incapaz de entrar no lobby.
-Codigo da sala invalido.# 
+Codigo da sala invalido.#
 5345 Falha ao resolver o host em:
 %s#
-5346 Falha ao abrir o socket UDP.# 
+5346 Falha ao abrir o socket UDP.#
 5347 Falha ao entrar no lobby.#
-
 5348 Barbaro#
 5349 Guerreiro#
 5350 Curandeiro#
@@ -5239,7 +4753,6 @@ Codigo da sala invalido.#
 5366 Punidor#
 5367 Xama#
 5368 Cacador#
-
 5369 Humano#
 5370 Esqueleto#
 5371 Vampiro#
@@ -5249,7 +4762,6 @@ Codigo da sala invalido.#
 5375 Incubo#
 5376 Goblin#
 5377 Insectoide#
-
 5378 Desativar Fome#
 5379 Desativar Minotauros
 Aleatorios#
@@ -5264,14 +4776,12 @@ Classicos#
 5385 Ativar Dificuldade
 Hardcore#
 5386 Ativar Trapacas#
-
 5387 CONQUISTAS DESATIVADAS
 (MODIFICADO)#
 5388 CONQUISTAS DESATIVADAS
 (LOBBY MODIFICADO)#
 5389 CONQUISTAS DESATIVADAS#
 5390 CONQUISTAS ATIVADAS#
-
 5391 CONFIGURACOES DO LOBBY#
 5392 Bandeiras do Jogo#
 5393 Apenas Convidados#
@@ -5282,7 +4792,7 @@ de Jogadores#
 5396 Isso ira expulsar %s
 e %s!#
 5397 Isso ira expulsar %s.
-Voce tem certeza?# 
+Voce tem certeza?#
 5398 Ok#
 5399 Voltar#
 5400 Sim#
@@ -5290,7 +4800,6 @@ Voce tem certeza?#
 5402 Expulsar Jogador#
 5403 Voce tem certeza de que quer
 expulsar %s?#
-
 5404 RACE SELECTION#
 5405 Landguard#
 5406 Northborn#
@@ -5316,7 +4825,6 @@ de raca de monstros#
 de Raca#
 5425 Mostrar Informacoes
 de Raca#
-
 5426 SELECAO DE CLASSE#
 5427 HP:
 MP:#
@@ -5326,7 +4834,6 @@ Complexidade:#
 5430 Mostrar Informacoes da Classe#
 5431 *** Por favor, espere %d segundos antes de sugerir outra classe. ***#
 5432 %s: Precisamos de um %s.#
-
 5433 NOME:#
 5434 Insira um nome para o Jogador %d#
 5435 Ver Configuracoes do Jogo#
@@ -5373,19 +4880,12 @@ deste lobby?#
 5473 Entrou no lobby com sucesso via Epic Online.#
 5474 Pressione A em um controle para atribui-lo ao Jogador %d,
 ou clique aqui para atribuir apenas o mouse e teclado
-
-
-
 #
 5475 Pressione A em um controle para ativa-lo agora,
 ou clique aqui para usar apenas o mouse e teclado
-
-
-
 #
 5476 ATRIBUIR CONTROLE#
 5477 P%d#
-
 5478 Lobby privado#
 5479 [MODIFICADO]#
 5480 Incapaz de entrar no lobby.
@@ -5409,7 +4909,6 @@ Lobby esta bloqueado.#
 5496 Modo classico#
 5497 Manter itens apos a morte#
 5498 +1 Vida#
-
 5500 Trapacas#
 5501 Machucar aliados#
 5502 Minotauros#
@@ -5446,7 +4945,6 @@ Jogo online nao esta disponivel.#
 5532 Ping#
 5533 Configuracoes de Filtro#
 5534 Crossplay#
-
 5535 TUTORIAIS#
 5536 Enfrente 10 desafios que ensinam e testam suas habilidades de aventura,
 preparando voce para enfrentar a masmorra#
@@ -5483,7 +4981,6 @@ NOVO#
 5563 Criando lobby Epic...#
 5564 Falha ao hospedar lobby Epic.#
 5565 Falha ao hospedar lobby Epic.
-
 Por favor, tente novamente mais tarde.#
 5566 Criando lobby Steam...#
 5567 Falha ao hospedar lobby Steam.#
@@ -5493,7 +4990,6 @@ Jogo online nao esta disponivel.#
 Epic Online para crossplay?#
 5570 Falha ao abrir socket UDP
 na porta %hu.#
-
 5571 Jogue sozinho ou com 2-%d
 jogadores em multijogador de tela dividida#
 5572 Hospede um jogo com 2-%d jogadores
@@ -5512,7 +5008,6 @@ Sem Fio#
 5580 Hospedar Festa LAN#
 5581 Hospedar Festa Online#
 5582 Navegador de Lobby#
-
 5583 Barony e um jogo desafiador.
 Voce gostaria de jogar um tutorial?#
 5584 Sim#
@@ -5524,16 +5019,12 @@ no menu Jogar Jogo.#
 o jogo salvo "%s"?#
 5589 Aviso: Este e um jogo salvo modificado!
 Nenhum mod esta carregado atualmente.
-
 Continuar pode causar problemas nos dados salvos.
-
 Tem certeza de que deseja carregar
 o jogo salvo "%s"?#
 5590 Aviso: Este e um jogo salvo sem mods!
 %d mod(s) estao atualmente carregados.
-
 Continuar pode invalidar conquistas para este jogo salvo.
-
 Tem certeza de que deseja carregar
 o jogo salvo "%s"?#
 5591 Cancelar#
@@ -5557,7 +5048,6 @@ Nv%d#
 5607 Ok#
 5608 Entrar na Masmorra#
 5609 Selecione um jogo salvo para carregar primeiro.#
-
 5610 ARQUIVOS DE AVENTURA#
 5611 CONQUISTAS#
 5612 COMPENDIO DA MASMORRA#
@@ -5566,7 +5056,6 @@ Nv%d#
 5615 INTRODUCAO DA HISTORIA#
 5616 CREDITOS#
 5617 VOLTAR AO MENU PRINCIPAL#
-
 5618 Geral#
 5619 Video#
 5620 Audio#
@@ -5588,36 +5077,33 @@ Descartar#
 5631 Voce deve reiniciar Barony para
 que algumas configuracoes tenham efeito.#
 5632 Ok#
-
 5633 Tem certeza de que deseja morrer?
 Nao ha retorno a partir daqui.#
 5634 Terminar Vida#
 5635 Cancelar#
 5636 Voce quer desistir?
-Este jogador sera perdido para sempre.# 
+Este jogador sera perdido para sempre.#
 5637 Ok#
 5638 Cancelar#
 5639 Tem certeza de que deseja reiniciar?
-Esta aventura sera perdida para sempre.# 
+Esta aventura sera perdida para sempre.#
 5640 Tem certeza de que deseja reiniciar
-a prova atual?# 
+a prova atual?#
 5641 Reiniciar#
 5642 Cancelar#
 5643 Tem certeza de que deseja retornar
-ao Salao das Provas?# 
+ao Salao das Provas?#
 5644 Tem certeza de que deseja redefinir
-o nivel do Salao das Provas?# 
+o nivel do Salao das Provas?#
 5645 Ok#
 5646 Cancelar#
 5647 Todo progresso antes do nivel atual
-da masmorra sera salvo.# 
+da masmorra sera salvo.#
 5648 Tem certeza de que deseja retornar
-ao menu principal?# 
+ao menu principal?#
 5649 Sair para o Menu#
 5650 Cancelar#
-
-# quit messages
-
+#quit messages
 5700 Voce quer ir embora, hein?
 Entao saia e nao volte mais!#
 5701 Tudo bem, caramba#
@@ -5691,12 +5177,10 @@ Voce esta apenas blefando.#
 eu vou te expulsar deste jogo.#
 5755 Coisa#
 5756 ...#
-
 5757 A tela esta com boa aparencia?
 %llu...#
 5758 Sim#
 5759 Nao#
-
 5760 Pressione para Iniciar#
 5761 VOLTAR AO JOGO#
 5762 ATRIBUIR CONTROLES#
@@ -5718,28 +5202,21 @@ eu vou te expulsar deste jogo.#
 5778 CONFIGURACOES#
 5779 EDITOR#
 5780 SAIR#
-
 5781 CONQUISTAS DESATIVADAS (LOBBY MODIFICADO)#
 5782 CONQUISTAS DESATIVADAS (MODIFICADO)#
 5783 CONQUISTAS DESATIVADAS (LOBBY MODIFICADO ANTERIORMENTE)#
 5784 CONQUISTAS DESATIVADAS#
 5785 CONQUISTAS ATIVADAS#
-
 5786 Jogadores online: ... #
 5787 Jogadores online: %d #
-
 5788 A conexao de rede com o jogo foi perdida.#
 5789 A conexao de rede com o jogo foi perdida.
-
 Por favor, restabeleca sua conexao de rede e tente novamente mais tarde.#
 5790 A conexao de rede com o jogo foi perdida.
-
 Todo o progresso do jogo ate o nivel atual da masmorra foi salvo.
-
 Por favor, restabeleca sua conexao de rede e tente novamente mais tarde.#
 5791 A conexao de rede
 foi perdida.#
-
 5792 Voce morreu.#
 5793 Seu grupo foi dizimado.#
 5794 Desconhecido#
@@ -5768,7 +5245,6 @@ foi perdida.#
 5817 Fonte#
 5818 Pia#
 5819 Alquimia#
-
 5820 Mal te conhecemos.#
 5821 Descanse em Paz.#
 5822 Voce fara falta.#
@@ -5780,7 +5256,6 @@ foi perdida.#
 5828 Eles dormem na memoria.#
 5829 Se foi, mas nao esquecido.#
 5830 Morto por: #
-
 5831 Aprenda com sua falha
 em completar o teste!#
 5832 Voce sera revivido se seu
@@ -5789,18 +5264,14 @@ grupo chegar ao proximo nivel.#
 nas pontuacoes locais!#
 5834 Voce nao conseguiu se classificar
 nas pontuacoes locais.#
-
 5835 Dispensar#
 5836 Voltar ao Hub#
 5837 Sair para o Menu Principal#
 5838 Reiniciar#
 5839 Ok#
-
 5840 Parabens, voce completou o primeiro tutorial!
-
 Voce esta agora no Salao das Provas,
 mais 9 provas estao disponiveis para ensinar e testar voce.
-
 Explore o Salao das Provas para aprender mais ou retorne
 ao menu principal e comece sua aventura.#
 5841 Explore
@@ -5810,33 +5281,25 @@ Menu Principal#
 5843 Reconecte o controle para o Jogador #
 5844 Por favor, reconecte seu controle.#
 5845 RECONECTAR CONTROLE#
-
 5846 Habilitar Crossplay permite que voce hospede e entre
 em lobbies via Epic Games, Inc.
-
 Ao clicar em Aceitar, voce concorda em compartilhar informacoes publicas
 sobre seu perfil Steam com a Epic Games, Inc.
 para o proposito de habilitar o crossplay.#
-
 5847 Gostaria de vincular seu dispositivo a uma conta online
 hospedada pela Epic Games, Inc. para jogar online?
-
 Ao escolher Aceitar, voce concorda em compartilhar algumas informacoes
 sobre seu console Nintendo com a Epic Games, Inc.
 para o proposito de habilitar o jogo online.#
-
 5848 Habilitar o jogo online permite que voce hospede e entre
 em lobbies online hospedados via Epic Games, Inc.
-
 Ao clicar em Aceitar, voce concorda em compartilhar algumas informacoes
 sobre seu dispositivo com a Epic Games, Inc. para o
 proposito de habilitar o jogo online.#
-
 5849 Aceitar#
 5850 Ver
 Politica de Privacidade#
 5851 Negar#
-
 5852 Selecione pelo menos 1 mod para carregar.#
 5853 Ok#
 5854 Descarregar Mod#
@@ -5885,10 +5348,8 @@ no Workshop#
 Workshop#
 5882 Navegue pelos mods criados pela comunidade e 'inscreva-se' para
 baixar mods para uso.
-
 Assinar enquanto Barony esta em execucao pode exigir
 fechar o jogo para que o Steam comece a baixar.
-
 Versao atual do jogo: #
 5883 Seus itens do workshop
 serao recarregados agora.#
@@ -5944,7 +5405,6 @@ Workshop#
 diretamente na pagina do Workshop, como descricoes mais longas
 com suporte a HTML, definir a visibilidade como publica
 ou adicionar capturas de tela ao carrossel.
-
 Se voce precisar editar a imagem de visualizacao ou arquivos modificados,
 use a janela de upload aqui no jogo.#
 5919 Abrir
@@ -5999,7 +5459,6 @@ Upload Novamente#
 5953 Codigo de erro: #
 5954 DIFICULDADE PERSONALIZADA#
 5955 Nenhum item do Workshop assinado encontrado.#
-
 5956 Equipar#
 5957 Largar#
 5958 FEITICOS#
@@ -6014,7 +5473,6 @@ Upload Novamente#
 5967 Registro#
 5968 FICHA DO PERSONAGEM#
 5969 OURO#
-
 5970 Atacar#
 5971 Usar#
 5972 Lancar Feitico#
@@ -6059,13 +5517,11 @@ Upload Novamente#
 6011 Slot da Barra de Atalhos 8#
 6012 Slot da Barra de Atalhos 9#
 6013 Slot da Barra de Atalhos 10#
-
 6014 Padrao#
 6015 Especialista#
 6016 Classico#
 6017 Minimo#
 #6018 foi perdido anteriormente, entao esta sendo usado.
-
 6019 Preencher Barra de Atalhos#
 6020 Pre-carregar Arquivos de Musica#
 6021 O pre-carregamento melhora o desempenho da reproducao, mas aumenta o uso da memoria do sistema. (Aplicado no proximo lancamento do jogo)#
@@ -6078,100 +5534,83 @@ Upload Novamente#
 6028 Proxima
 Pagina#
 6029 Fechar#
-
-# Scarony Barony Credits:
-
+#Scarony Barony Credits:
 6030 caves00 - Among Us by Myuu
 caves01 - Fatal Shrine by Myuu
 caves02 - Tormented Souls by Myuu
 citadel00 - Evil Returns by Myuu
 citadel01 - Friday the 13th by Myuu
 citadel02 - October 31st by Myuu#
-
 6031 endgame - The Order's Theme by Myuu
 herxboss - Soul Rail by Myuu
 intermission - Echo by Myuu
 intro - Ghost Town by Myuu
 intro01 - Countdown by Myuu
 intro02 - Untold Secrets by Myuu#
-
 6032 labyrinth00 - Final Showdown by Myuu
 labyrinth01 - Living in the Dark by Myuu
 labyrinth02 - Silent Turmoil by Myuu
 library - Countdown by Myuu
 mines00 - Look Out by Myuu
 mines01 - Haunted House by Myuu#
-
 6033 mines02 - Nebula by Myuu
 mines03 - Strange Vision by Myuu
 mines04 - The Crypt by Myuu
 minetown - Haunted By Screams by Myuu
 minotaur00 - Run! by Myuu
 minotaur01 - Cornered by Myuu#
-
 6034 ruins00 - You're Next by Myuu
 ruins01 - Into the Depths by Myuu
 ruins02 - The Backrooms by Myuu
 sanctum - Metamorphosis by Myuu
 shop - Carnival Freaks by Myuu
 swamp00 - Poltergeist by Myuu#
-
 6035 swamp01 - Abyss by Myuu
 swamp02 - Danger by Myuu
 swamp03 - Growing Shadows
 temple - Extinction by Myuu#
-
-# Merry Barony credits:
-
+#Merry Barony credits:
 6036 caves00 - Sleigh Bells by Myuu
 caves01 - Deck the Halls by Myuu
 caves02 - Snow Wonders by Myuu
 citadel00 - Jingle Bells by Myuu
 citadel01 - Underneath the Christmas Tree by Myuu
 citadel02 - God Rest Ye Merry Gentlemen by Myuu#
-
 6037 endgame - Disintegrating by Myuu
 escape - Deck the Halls by Myuu
 hell00 - Deck the Halls by Myuu
 hell01 - Santa's Tricks by Myuu
 hell02 - Winter Trouble by Myuu
 herxboss - Krampus is Here by Myuu#
-
 6038 intermission - Disintegrating by Myuu
 introduction - Disintegrating by Myuu
 labyrinth00 - Ice Land (Part 1) by Myuu
 labyrinth01 - Holiday Macabre by Myuu
 labyrinth02 - Disintegrating by Myuu
 library - Santa's Tricks by Myuu#
-
 6039 mines00 - Sleigh Bells by Myuu
 mines01 - God Rest Ye Merry Gentlemen by Myuu
 mines02 - Silent Night by Myuu
 mines03 - Carol of the Bells by Myuu
 mines04 - Angels We Have Heard on High by Myuu
 minetown - Underneath the Christmas Tree by Myuu#
-
 6040 minotaur00 - Krampus is Here by Myuu
 minotaur01 - Deck the Halls by Myuu
 ruins00 - Ice Land (Part 2) by Myuu
 ruins01 - Winter Trouble by Myuu
 ruins02 - Snow Wonders by Myuu
 sanctum - Krampus is Here by Myuu#
-
 6041 shop - Sleigh Bells by Myuu
 swamp00 - Jingle Bells by Myuu
 swamp01 - Rudolph the Red Nosed Reindeer by Myuu
 swamp02 - Dance of the Sugar Plum Fairy by Myuu
 swamp03 - What Child is This by Myuu
 temple - Santa's Tricks by Myuu#
-
 6042 underworld00 - Ice Land (Part 1) by Myuu
 underworld01 - Deck the Halls by Myuu
 underworld02 - Winter Trouble by Myuu
 intro - God Rest Ye Merry Gentlemen by NaturesEye#
-
 6043 Nenhum feriado ativo no momento.#
-
 6044 Chamar#
 6045 Empurrar item#
 6046 Relaxar#
@@ -6234,10 +5673,8 @@ Tabela de Lideres#
 6098 PESO#
 6099 Erro: Nao foi possivel carregar o arquivo de salvamento: "%s".
 Codigo de erro: %d
-
 Nao foi possivel verificar se o DLC necessario esta instalado
 para carregar este arquivo de salvamento.
-
 Verifique se o DLC esta instalado corretamente e
 reinicie o jogo para tentar novamente.#
 6100 Nao foi possivel verificar se o DLC esta instalado
@@ -6285,20 +5722,14 @@ Incompatibilidade de LID.#
 o desafio selecionado.#
 6125 Voce ja enviou uma tentativa
 para este desafio!
-
 Voce pode jogar este desafio novamente, mas sua
 pontuacao na tabela de lideres nao mudara.
-
 Voce ainda gostaria de jogar este desafio novamente?#
 6126 O DLC Myths & Outcasts e necessario
 para jogar este desafio novamente!
-
-
 #
 6127 O DLC Legends & Pariahs e necessario
 para jogar este desafio novamente!
-
-
 #
 6128 Tabelas de Lideres Atualizadas!#
 6129 Nao foi possivel entrar no lobby.
@@ -6325,7 +5756,7 @@ permitido neste desafio!#
 (EVENTO DE DESAFIO)#
 6138 CONQUISTAS DESATIVADAS (EVENTO DE DESAFIO)#
 6139 Evento de Desafio!#
-# Configuracoes de modo de audio
+#Configuracoes de modo de audio
 6140 Configuracao#
 6141 Padrao#
 6142 Bruto#
@@ -6370,5 +5801,4 @@ para participar.#
 6171 Desbloqueie a Conquista:
 "%s"
 para jogar com esta combinacao de classes.#
-
 6200 FIM#
