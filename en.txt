@@ -1817,7 +1817,7 @@ Seja inventivo. Todo item tem sua utilidade.#
 1378 O servidor ja esta cheio.#
 1379 Incompatibilidade de versao do jogo.#
 1380 O lobby nao requer um arquivo de salvamento.#
-1381 O anfitriao esta continuando de um arquivo de salvamento -
+1381 O host esta continuando de um arquivo de salvamento -
 Arquivo de salvamento compativel nao encontrado.#
 1382 Arquivos de salvamento nao correspondem.#
 1383 Arquivos de salvamento nao correspondem.#
